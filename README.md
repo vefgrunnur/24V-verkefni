@@ -31,7 +31,7 @@
 | 3  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
 | 5  | Skipulag vefsíðu (_Grid Layout_) | 3  | 5 | 10 |
 | 6  | Svegjanleg vefhönnun (_@media and mobile up_) | 4  | 5 | 10 |
-| 8  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 10 |
+| 8  | Letur- og litaval.<br> Efnisyfirlit og Staðsetning taga | 5  | 5 | 10 |
 | 7  | Myndvinnsla | 6 | 5 | 10 |
 | 8  | Video, Audio, Kort - google map | 7 | 5 | 10 |
 | 9  | V7/buffer | --- | 35 | 65 |
