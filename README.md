@@ -53,6 +53,8 @@
 | 8 | Video | Audio | Kort - google map | Frágangur kóða | 
 | 9 | V7/buffer | V7/buffer | **Tímaverkefni**  | _Námsmat_ |
 
+### Námsmat
+
 1. **verkefni 10%.  Vefþróunarsvæði**
    * Visual Studio Code innsetning
    * HTML æfing 5%
