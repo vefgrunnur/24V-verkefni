@@ -11,7 +11,8 @@
 
 ### Verkefnaskil 
  
--  Öllum verkefnum er skilað í Innu/VEFÞ1VG05AU/Verkefni 
+-  Öllum æfingaverkefnum er skilað í Innu/VEFÞ1VG05AU/Verkefni 
+-  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/Tímaverkefni
 -  Einkunn fyrir verkefnin birtast í Innu
 
 ---
