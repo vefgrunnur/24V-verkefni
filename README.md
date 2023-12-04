@@ -17,7 +17,7 @@
 
 ---
 
-#### [Bjargir](https://github.com/vefgrunnur/23H-verkefni-S2/wiki)
+#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki) ath!
 
 ---
 
