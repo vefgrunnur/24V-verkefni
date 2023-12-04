@@ -35,7 +35,7 @@
 | 8  | Letur- og litaval.<br> Efnisyfirlit og Staðsetning taga | 5  | 5 | 10 | 
 | 7  | Myndvinnsla | 6 | 5 | 10 |
 | 8  | Video, Audio, Kort - google map | 7 | 5 | 10 |
-| 9  | V7/buffer | --- | 35 | 65 |
+| 9  | Síðasti kennsudagur er 29. febrúar | --- | 35 | 65 |
 | 10 | _Námsmat_  |  |  | 100%  |
 
 
