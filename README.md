@@ -35,7 +35,7 @@
 | 7  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 10 | 
 | 8  | Myndvinnsla | 6 | 5 | 10 |
 | 9  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 5 | 10 |
-| 10  | Síðasti kennsudagur er 29. febrúar | _Námsmat_ | 35 | 65 |
+| 10  | Síðasti kennsudagur er 29. febrúar |  | 35 | 65 |
 
 
 
