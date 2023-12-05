@@ -3,10 +3,10 @@
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/)
 1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/)
-1. verkefni. [Sveigjanleg hönnun](Verkefni-4/)
-1. verkefni. [Leturfræði, efnisyfirlit og staðsetning](Verkefni-7/README.md) ath! nýtt
+1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) ath! nýtt/lagfæra
+1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) ath! nýtt/lagfæra
 1. verkefni. [Myndvinnsla](Verkefni-5/)
-1. verkefni. [Innsetning miðla (API)](Verkefni-6/README.md)
+1. verkefni. [Innsetning miðla (API og staðsetning taga)](Verkefni-6/README.md) ath! nýtt/lagfæra
 
 
 ### Verkefnaskil 
@@ -46,10 +46,10 @@
 | 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Vinnuumhverfi VSC. Fyrsta html síðan | HTML tög | **Tímaverkefni** | 
 | 3 | CSS stílsíða | Box modelið | display: inline - block.  CSS Float  | **Tímaverkefni** | 
 | 4 | Grid dálkar. | Ritháttur HTML 5. | Mismunandi skipulag | **Tímaverkefni** |   
-| 5 | Sveiganleg hönnun, @media, Grid dálkar | Flexbox,  efnisyfirlit (Nav) | Leiðarkerfi | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Staðsetning hluta (_positioning elements_) | **Tímaverkefni** | 
+| 5 | Sveiganleg hönnun, @media| Grid dálkar | Flexbox,  efnisyfirlit (Nav) | **Tímaverkefni** | 
+| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_site-map_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
-| 8 | Video | Audio | Kort - google map | Frágangur kóða | 
+| 8 | Video | Audio | Kort - google map | Staðsetning hluta (_positioning elements_) | 
 | 9 | V7/buffer | V7/buffer | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
