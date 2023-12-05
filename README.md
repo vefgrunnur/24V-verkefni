@@ -31,12 +31,12 @@
 | 2  | HTML og CSS | 1  | 5 | 5 |
 | 3  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
 | 5  | Skipulag vefsíðu (_Grid Layout_) | 3  | 5 | 10 |
-| 6  | Svegjanleg vefhönnun (_@media and mobile up_) | 4  | 5 | 10 |
+| 7  | Svegjanleg vefhönnun (_@media and mobile up_) | 4  | 5 | 10 |
 | 8  | Letur- og litaval.<br> Efnisyfirlit og Staðsetning taga | 5  | 5 | 10 | 
-| 7  | Myndvinnsla | 6 | 5 | 10 |
-| 8  | Video, Audio, Kort - google map | 7 | 5 | 10 |
-| 9  | Síðasti kennsudagur er 29. febrúar | --- | 35 | 65 |
-| 10 | _Námsmat_  |  |  | 100%  |
+| 9  | Myndvinnsla | 6 | 5 | 10 |
+| 10  | Video, Audio, Kort - google map | 7 | 5 | 10 |
+| 11  | Síðasti kennsudagur er 29. febrúar | _Námsmat_ | 35 | 65 |
+| 10 |  |  |  | 100%  |
 
 
 
