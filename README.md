@@ -47,7 +47,7 @@
 | 3 | CSS stílsíða | Box modelið | display: inline - block.  CSS Float  | **Tímaverkefni** | 
 | 4 | Grid dálkar. | Ritháttur HTML 5. | Mismunandi skipulag | **Tímaverkefni** |   
 | 5 | Sveiganleg hönnun, @media| Grid dálkar | Flexbox,  efnisyfirlit (Nav) | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_site-map_) | **Tímaverkefni** | 
+| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
 | 8 | Video | Audio | Kort - google map | Staðsetning hluta (_positioning elements_) |  
 | 9 | V7/buffer | V7/buffer | **Tímaverkefni**  | _Námsmat_ |
