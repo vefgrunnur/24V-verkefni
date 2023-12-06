@@ -50,7 +50,7 @@
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
 | 8 | Video | Audio | Kort - google map | Staðsetning hluta (_positioning elements_) |  
-| 9 | V7/buffer | V7/buffer | **Tímaverkefni**  | _Námsmat_ |
+| 9 | Myndir í grid | Myndir í flex | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
 
