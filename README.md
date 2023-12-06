@@ -1,7 +1,7 @@
 # Verkefni VEFÞ1VG05A
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
-1. verkefni. [Box módelið](Verkefni-2/)
+1. verkefni. [Box módelið](Verkefni-2/) ath! lagfæra
 1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/) ath! lagfæra
 1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) ath! lagfæra
 1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) ath! lagfæra
