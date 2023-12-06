@@ -2,11 +2,11 @@
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/)
-1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/)
-1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) ath! nýtt/lagfæra
-1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) ath! nýtt/lagfæra
+1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/) ath! lagfæra
+1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) ath! lagfæra
+1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) ath! lagfæra
 1. verkefni. [Myndvinnsla](Verkefni-5/)
-1. verkefni. [Innsetning miðla (API og staðsetning taga)](Verkefni-6/README.md) ath! nýtt/lagfæra
+1. verkefni. [Innsetning miðla (API og staðsetning taga)](Verkefni-6/README.md) ath! lagfæra
 
 
 ### Verkefnaskil 
