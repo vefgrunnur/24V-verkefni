@@ -58,21 +58,21 @@
    * Visual Studio Code innsetning
    * HTML æfing 5%
    * Tímaverkefni 5%
-1. **verkefni 15%. CSS, Box Modelið og display** 
+1. **verkefni 10%. CSS, Box Modelið og display** 
     * Æfingar 5% 
-    * Tímaverkefni 10%
-1. **verkefni 15%. Grid og Flexbox**
+    * Tímaverkefni 5%
+1. **verkefni 10%. Grid og Flexbox**
    * Æfingar 5% 
    * Tímaverkefni 10%
 1. **verkefni 15%. Sveigjanleg hönnun**
    * Æfingar 5%
-   * Tímaverkefni 10%
+   * Tímaverkefni 15% - _lykilmatsþáttur_
 1. **verkefni 15%. Letur- og litaval. Efnisyfirlit, staðsetning taga** 
    * Æfingar 5%
    * Tímaverkefni 10%
-1. **verkefni 15%. Myndvinnsla** 
+1. **verkefni 15%. Myndvinnsla**
    * Æfingar 5%
    * Tímaverkefni 10%
 1. **verkefni 15%. Video, audio og iframe**  
    * Æfingar 5%
-   * Tímaverkefni 10%
+   * Tímaverkefni 15% - _lykilmatsþáttur_
