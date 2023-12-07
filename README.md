@@ -51,8 +51,8 @@
 | 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
-| 8 | _Vetrarfrí_ | Video | Audio | Kort - google map |  
-| 9 | Staðsetning hluta (_positioning elements_) | --- | **Tímaverkefni**  | _Námsmat_ |
+| 8 | _Vetrarfrí_ | Video | Audio | Iframe |  
+| 9 | Staðsetning hluta | (_positioning elements_) | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
 
