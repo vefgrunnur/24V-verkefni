@@ -52,7 +52,7 @@
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
 | 8 | _Vetrarfrí_ | Video | Audio | Iframe |  
-| 9 | Staðsetning hluta | (_positioning elements_) | **Tímaverkefni**  | _Námsmat_ |
+| 9 | Staðsetning hluta (_positioning elements_) | --- | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
 
