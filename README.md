@@ -55,7 +55,7 @@
 | 9 | Staðsetning hluta (_positioning elements_) | --- | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
-Grid dálkar. |
+
 1. **verkefni 10%.  Vefþróunarsvæði**
    * Visual Studio Code innsetning
    * HTML æfing 5%
