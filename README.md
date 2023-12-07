@@ -1,6 +1,6 @@
 # Verkefni VEFÞ1VG05A
 
-ATH! það þarf að lagfæra allar verklýsingar og búa til tímaverkefni/próf.
+> ATH! það þarf að lagfæra allar verklýsingar og búa til tímaverkefni/próf.
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
