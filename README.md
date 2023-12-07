@@ -8,7 +8,7 @@
 1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) 
 1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) 
 1. verkefni. [Myndvinnsla](Verkefni-5/)
-1. verkefni. [Innsetning miðla (API og staðsetning taga)](Verkefni-6/README.md) 
+1. verkefni. [Innsetning miðla (API) og staðsetning taga](Verkefni-6/README.md) 
 
 
 ### Verkefnaskil 
