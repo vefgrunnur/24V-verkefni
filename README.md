@@ -45,17 +45,17 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Vinnuumhverfi VSC. Fyrsta html síðan | HTML tög | **Tímaverkefni** | 
-| 3 | CSS stílsíða | Box modelið | display: inline - block.  CSS Float  | **Tímaverkefni** | 
-| 4 | Ritháttur HTML 5. | Grid dálkar. | Flexbox dálkar | **Tímaverkefni** |   
-| 5 | Sveiganleg hönnun| Grid  @media skipulag | Flexbox,  efnisyfirlit ofl. | **Tímaverkefni** | 
+| 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
+| 3 | CSS - Box modelið | display: inline - block, float | Ritháttur HTML5 | **Tímaverkefni** | 
+| 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
+| 5 | Sveiganleg hönnun  @media | Grid skipulag | Flexbox,  efnisyfirlit | **Tímaverkefni** | 
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
 | 8 | Video | Audio | Kort - google map | Staðsetning hluta (_positioning elements_) |  
 | 9 | --- | --- | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
-
+Grid dálkar. |
 1. **verkefni 10%.  Vefþróunarsvæði**
    * Visual Studio Code innsetning
    * HTML æfing 5%
