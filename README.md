@@ -4,7 +4,7 @@
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
-1. verkefni. [Skipulag vefsíðu - Grid](Verkefni-3/) 
+1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
 1. verkefni. [Sveigjanleg hönnun](Verkefni-4/) 
 1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) 
 1. verkefni. [Myndvinnsla](Verkefni-5/)
@@ -48,7 +48,7 @@
 | 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
 | 3 | CSS - Box modelið | display: inline - block, float | Ritháttur HTML5 | **Tímaverkefni** | 
 | 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
-| 5 | Sveiganleg hönnun  @media | Grid skipulag | Flexbox,  efnisyfirlit | **Tímaverkefni** | 
+| 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Photopea, myndir skornar | Unnið með stóra mynd í html &lt;picture> | Mynd með gagnsæjum grunni búin til og unnið með SVG tákn | **Tímaverkefni** |       
 | 8 | Video | Audio | Kort - google map | Staðsetning hluta (_positioning elements_) |  
