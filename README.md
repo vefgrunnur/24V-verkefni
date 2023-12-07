@@ -63,7 +63,7 @@ Grid dálkar. |
 1. **verkefni 10%. CSS, Box Modelið og display** 
     * Æfingar 5% 
     * Tímaverkefni 5%
-1. **verkefni 10%. Grid og Flexbox**
+1. **verkefni 10%. Grid og Flex**
    * Æfingar 5% 
    * Tímaverkefni 10%
 1. **verkefni 20%. Sveigjanleg hönnun**
