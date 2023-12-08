@@ -5,7 +5,6 @@ Nemendur
 - stofna vefumsjónarkerfi með Visual Studio Code
 - búa til vefsíðu og tengja stílsíðu við hana
 - sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_ 
-- Nemendur finna umfjöllunarefni sem notað verður í verkefnum áfangans
 
 ---
 
