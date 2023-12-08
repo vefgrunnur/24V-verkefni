@@ -1,3 +1,5 @@
+> hér þarf að bæta við flexbox
+
 # Skipulag vefsíðu með Grid Layout - <br> HTML5 ritháttur (_HTML5 Semantics_)
 
 ### Markmið:
