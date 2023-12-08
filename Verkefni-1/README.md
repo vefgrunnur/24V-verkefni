@@ -15,7 +15,9 @@ Nemendur
 1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 ---
 
-## Efnisval og gagnasöfnun
+> Newmendur skila engu lokaverkefni, það eru samt 2 lykilmatsþættir í 4. og 7. verkefni.
+
+<!-- ## Efnisval og gagnasöfnun
 
 Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. Nemendur bæta og breyta efni vefsins eftir því sem þurfa þykir út alla spönnina.
 
@@ -61,6 +63,8 @@ Staðvært umhverfi (_local environment_) = tölvan þín.
 - Uppsetning vefþróunarsvæðis 2%
 - HTML Vefsíða 4%
 - Efnisval og gagnasöfnun 6%
+
+-->
   
 ### Verkefnaskil
 
