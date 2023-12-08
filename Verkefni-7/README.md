@@ -1,4 +1,4 @@
-# Leturfræði og íhlutir (API) í vafra
+# Íhlutir (API) og staðsetning taga (nýtt!)
 
 ### Markmið:
 
