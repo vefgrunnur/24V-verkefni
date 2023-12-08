@@ -1,4 +1,4 @@
-# Verkefni 1. Undirbúningur 
+# HTML og CSS 
 
 ### Markmið:
 Nemendur
