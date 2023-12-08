@@ -6,9 +6,9 @@
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
 1. verkefni. [Sveigjanleg hönnun. @media](Verkefni-4/) 
-1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-7/README.md) 
-1. verkefni. [Myndvinnsla](Verkefni-5/)
-1. verkefni. [Innsetning miðla (API) og staðsetning taga](Verkefni-6/README.md) 
+1. verkefni. [Leturfræði, efnisyfirlit og bakgrunnar](Verkefni-5/README.md) 
+1. verkefni. [Myndvinnsla](Verkefni-6/)
+1. verkefni. [Innsetning miðla (API) og staðsetning taga](Verkefni-7/README.md) 
 
 
 ### Verkefnaskil 
