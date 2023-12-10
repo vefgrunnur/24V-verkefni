@@ -1,4 +1,4 @@
-> hér þarf að bæta við flexbox
+> Nýtt flexbox
 
 # Skipulag vefsíðu með Grid Layout og Flex
 
@@ -8,7 +8,7 @@
 - Nemendur nota mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics).
 - Nemendur setja upp vefsíðu og vinna eftir eigin skipulagi
 
-### 2.4 Display Flexbox
+### 3.1 Display Flexbox
 
 Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](verkefni-23-24/verkefni-nemar.zip) 
 
