@@ -40,6 +40,16 @@ Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda o
 ![float](verkefni-23-24/verk.2.3.JPG)
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
+### 2.4 HTML5 ritháttur.  Nýtt efni í vinnslu!
+
+- Notaðu textann sem þú hefur unnið að frá 1. verkefni??
+- Gerðu ráð fyrir tenglum í &lt;nav> taginu samkvæmt þínu skipulagi
+- Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
+
+```
+<header> <nav> <section> <main> <article> <aside> <footer> 
+```
+- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 
 ### Námsefni
 

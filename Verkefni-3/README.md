@@ -36,14 +36,7 @@ Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka up
 Nú þarf að skipuleggja vefsíðu sem verður grunnur (_boilerplate_) undir vefinn þinn. Hvernig vilt þú hafa skipulag vefsins?
 Vefsíðan á að hafa haus (_header_), efnisyfirlit (_nav_), aðaldálk (_main_), 1 eða 2 hliðardálka (_aside_)  og undirtextadálk (_footer_).  
 
-- Notaðu textann sem þú hefur unnið að frá 1. verkefni
-- Gerðu ráð fyrir tenglum í &lt;nav> taginu samkvæmt þínu skipulagi
-- Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
 
-```
-<header> <nav> <section> <main> <article> <aside> <footer> 
-```
-- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Hér eru sýnidæmi um skipulag vefsíðu: 
   - [**Skipulag 1**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-32/)
   - [**Skipulag 2**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-33/)
