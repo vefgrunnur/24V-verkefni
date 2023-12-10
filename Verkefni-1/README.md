@@ -3,8 +3,9 @@
 ### Markmið:
 Nemendur
 - stofna vefumsjónarkerfi með Visual Studio Code
-- búa til vefsíðu og tengja stílsíðu við hana
-- sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_ 
+- búa til HTML5 vefsíðu 
+- sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
+- búa til stílsíðu og tengja hana við vefsíðuna
 
 ---
 
