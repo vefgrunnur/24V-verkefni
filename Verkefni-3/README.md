@@ -1,12 +1,28 @@
 > hér þarf að bæta við flexbox
 
-# Skipulag vefsíðu með Grid Layout - <br> HTML5 ritháttur (_HTML5 Semantics_)
+# Skipulag vefsíðu með Grid Layout og Flex
 
 ### Markmið:
 
 - Nemendur hanna skipulag (_layout_) vefsíðu með CSS grid stílum.
 - Nemendur nota mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics).
 - Nemendur setja upp vefsíðu og vinna eftir eigin skipulagi
+
+### 2.4 Display Flexbox
+
+Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](verkefni-23-24/verkefni-nemar.zip) 
+
+- Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](verkefni-23-24/before.2.4.JPG)
+- Breyttu efri röðinni (Row order) þannig að dálkarnir séu í einni **röð, gulur, rauður, grænn og blár**. 
+
+- Það gerir þú með því að nota eftirfarandi stillingar:
+  - display: flex;
+  - flex-flow: row-reverse;
+- Textinn í dálkunum á að vera **í miðju** dálkana. 
+ 
+![Flex](verkefni-23-24/verk.2.4.JPG)
+
+- Einnig á að breyta neðri röðinni  eins og sýnt er hér
 
 ### 3.1 Dálkaskipulag 
 
