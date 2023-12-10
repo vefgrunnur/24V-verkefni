@@ -2,7 +2,11 @@
 
 ### Markmið:
 
-Nemendur eiga að öðlast skilning á hvað HTML ívafsmálið stendur fyrir og hvernig hægt er að stjórna útliti vefsíðu með CSS stílsíðu. Hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á tög.
+- Hvað stendur HTML ívafsmálið fyrir
+- Hvernig hægt er að stjórna útliti vefsíðu með CSS stílum
+- Hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á tög
+- Hvað eru leyniklasar (_pseudo classes_)
+- Hvað er HTML5 ritháttur (_HTML5 Semantics_)
 
 ### Verkefnalýsing
 
