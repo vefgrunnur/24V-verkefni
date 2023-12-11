@@ -14,7 +14,6 @@ Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 
 - Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](Namsefni-3/Flexbox/before.2.4.JPG)
 - Breyttu efri röðinni (Row order) þannig að dálkarnir séu í einni **röð, gulur, rauður, grænn og blár**. 
-
 - Það gerir þú með því að nota eftirfarandi stillingar:
   - display: flex;
   - flex-flow: row-reverse;
