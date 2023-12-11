@@ -6,11 +6,11 @@ Nemendur
 - búa til HTML5 vefsíðu 
 - sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
 - Búa til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
-- Hvernig hægt er að hanna útlit vefsíðu með CSS stílum
+- Hanna útlit vefsíðunnar með CSS stílum
 
 ---
 
-### Innsetning forrita
+### Innsetning forrits og uppsetning vefþróunarsvæðis
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
 
