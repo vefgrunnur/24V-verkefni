@@ -74,7 +74,7 @@ Hljómsveitin framleiddi einnig nokkrar kvikmyndir
     Let It Be. Heimildarmynd
     Yellow Submarine. Teiknimynd
 
-Heimild: https://is.wikipedia.org/wiki/B%C3%ADtlarnir
+Heimild: https://is.wikipedia.org/wiki/Bítlarnir
 
 Aukabil  	á 	 milli 	orða
 										PRE reynir að 
