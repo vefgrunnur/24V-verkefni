@@ -25,14 +25,14 @@ Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 
 
 
-### 3.1 Dálkaskipulag 
+### 3.2 Dálkaskipulag 
 
 Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka uppsetningu, 3 dálka uppsetningu og 4 dálka uppsetningu. 
 
 - Notaðu css skipunina **display: grid**
 - [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
 
-### 3.2 Grid skipulag / layout
+### 3.3 Grid skipulag / layout
 
 Nú þarf að skipuleggja vefsíðu sem verður grunnur (_boilerplate_) undir vefinn þinn. Hvernig vilt þú hafa skipulag vefsins?
 Vefsíðan á að hafa haus (_header_), efnisyfirlit (_nav_), aðaldálk (_main_), 1 eða 2 hliðardálka (_aside_)  og undirtextadálk (_footer_).  
