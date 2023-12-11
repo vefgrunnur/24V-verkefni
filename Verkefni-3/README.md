@@ -4,8 +4,9 @@
 
 ### Markmið:
 
-- Nemendur hanna skipulag (_layout_) vefsíðu með CSS grid stílum.
-- Nemendur nota mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics).
+- Nemendur endurraða tögum með Flex stílum
+- Nemendur hanna skipulag (_layout_) vefsíðu með CSS grid stílum
+- Nemendur nota mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics)
 - Nemendur setja upp vefsíðu og vinna eftir eigin skipulagi
 
 ### 3.1 Display Flexbox
