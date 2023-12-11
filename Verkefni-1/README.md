@@ -13,13 +13,17 @@ Nemendur
 ### Innsetning forrita
 
 1. Byrjum á að hlaða inn [Visual Studio Code](https://code.visualstudio.com/) og setjum það inn (_install_) í tölvuna okkar
-1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppuna þína 
-1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
+
 ---
 
 ### 1.1 HTML
- 
-Búðu til HTML vefsíðu og **notaðu efni sem þú hefur valið í 1. verkefni**. Settu viðeigandi HTML tög utan um textann, vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  Notaðu viðeigandi tög til að gera textann læsilegan. Settu inn amk. einn tengil sem vísar á aðra vefsíðu og notaðu huldu klasa (_pseudo class_) til að sýna hvort tengillin hefur verið opnaður eða ekki. 
+
+1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum. 
+1. Búðu til HTML vefsíðu í Visual Studio sem á að nefna _index.html_. 
+1. Í möppunni [Námsefni-1](Námseefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
+1. Settu viðeigandi HTML tög utan um textann
+1. Notaðu viðeigandi tög til að gera textann læsilegan. 
+1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
 
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> og <span> 
