@@ -19,7 +19,7 @@ Nemendur
 ### 1.1 Vefþróunarsvæði
 
 1. Opnaðu Visual Studio Code (VSC), veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
-1. Í VSC búðu til möppu og nefnu hana **"Verkefni-1"** og í þá möppu, HTML vefsíðu sem á að nefna _index.html_ 
+1. Í VSC búðu til möppu og nefnu hana **"Verkefni-1"** og í þá möppu, HTML vefsíðu sem á að nefna _index.html_ veldu **"File -> "New file"**
 ```
   VEFÞ1-verkefni
   |_verkefni-1
@@ -27,12 +27,15 @@ Nemendur
 ```
 ### 1.2 HTML
 
-VSC styður fjölmörg forritunarmál með alskyns litakóða og HTML skrár eru studdar dyggilega af VSC forritinu
+VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
 
 1. index.html skráin sem þú hefur búið til er alveg auð og til að byrja með en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_)
 eina sem þú þarft að gera er að slá inn `!` 
-![Námsefni-1](Namsefni-1/img/boilerplate.jpg) síðan ýtir þá á `enter` eða `tab` takkann á lyklaborðinu þínu
-1. Í möppunni [Námsefni-1](Námsefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
+
+![Námsefni-1](Namsefni-1/img/boilerplate.jpg) 
+
+síðan ýtir þá á `enter` eða `tab` takkann á lyklaborðinu þínu
+1. Í möppunni [Námsefni-1](Namsefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
 1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
 
