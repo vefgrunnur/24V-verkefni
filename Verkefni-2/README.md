@@ -17,14 +17,14 @@ Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsag
 
 > H1 - padding - border - margin
 
-### 2.2 Eiginleikar taga (_Display settings_).
+### 2.1.2 Eiginleikar taga (_Display settings_).
 
 Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
 ![display settings](Námsefni/Box-model/display.JPG)
 
 
-### 2.3 CSS "_Float_" 
+### 2.2 CSS "_Float_" 
 
 Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda og raða upp eins og sýnt er hér á myndinni.
 
@@ -32,7 +32,7 @@ Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda o
 
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
-### 2.4 HTML5 ritháttur.  
+### 2.3 HTML5 ritháttur.  
 
 - Notaðu textann sem fylgir með ..............
 - Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
