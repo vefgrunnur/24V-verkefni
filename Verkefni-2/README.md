@@ -11,24 +11,25 @@
   
 ### 2.1 Box módelið
 
-Skrifaðu 3 línur af texta og settu þær í fyrirsagnarletur &lt;H1>. Stílaðu textann eins og sýnt er hér á myndinni
+Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsagnarletur &lt;H1>. Stílaðu textann eins og sýnt er hér á myndinni
 
 ![Css æfing](Námsefni/Box-model/box-inheritance.JPG)
 
 > H1 - padding - border - margin
 
-### 2.2 Display
+### 2.2 Eiginleikar taga (_Display settings_).
 
-Eiginleikar taga (_Display settings_). Búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
+Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
 ![display settings](Námsefni/Box-model/display.JPG)
 
-> þarf að endurvinna! 2.3 og 2.4
 
 ### 2.3 CSS "_Float_" 
 
 Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda og raða upp eins og sýnt er hér á myndinni.
-![float](verkefni-23-24/verk.2.3.JPG)
+
+![float](Námsefni/verk.2.3.JPG)
+
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
 ### 2.4 HTML5 ritháttur.  
