@@ -59,14 +59,13 @@ Mynd
 - [Box módelið](Box-model/)
 - Eiginleikar taga (_Display settings_)
 
-### Námsmat 12%
+### Námsmat ath!
 
-- 2.1 Eigin uppsetning
-  - HTML síða" 3% 
-  - CSS stílsíða - "a:_pseudo classes_" 3%
-- 2.2 Box módelið og "_display_" stillingar  2%
-- 2.3 Display: float 2%
-- 2.4 Display: flex 2%
+Æfingaverkefni 5%
+- 2.1 Box módelið 
+- 2.2 "_display_" stillingar  
+- 2.3 Display: float 
+- 2.4 Hulduklasar _Pseudo classes_
 
 #### Skil
 
