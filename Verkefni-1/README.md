@@ -5,7 +5,7 @@ Nemendur
 - stofna vefumsjónarkerfi með Visual Studio Code
 - búa til HTML5 vefsíðu 
 - sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
-- Hvað stendur HTML ívafsmálið fyrir
+- Búa til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
 - Hvernig hægt er að hanna útlit vefsíðu með CSS stílum
 
 ---
