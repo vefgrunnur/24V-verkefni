@@ -2,9 +2,10 @@
 
 ### Markmið:
 
-- Hvernig box módelið virkar og hvaða áhrif _display:_ eigindið hefur á tög
-- Hvað eru leyniklasar (_pseudo classes_)
+- Hvernig box módelið virkar 
+- Hvernig er hægt að breyta eiginleika taga með _display:_ 
 - Hvað er HTML5 ritháttur (_HTML5 Semantics_)
+- Hvað eru leyniklasar (_pseudo classes_)
 
 ---
   
