@@ -46,7 +46,7 @@
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
 | 1-2 |  Kynning, innsetning VSC og skil í Innu ofl. | Fyrsta html síðan | HTML tög og CSS | **Tímaverkefni** | 
-| 3 | CSS - Box modelið | display: inline - block, float | Ritháttur HTML5 | **Tímaverkefni** | 
+| 3 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
 | 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
 | 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
 | 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
