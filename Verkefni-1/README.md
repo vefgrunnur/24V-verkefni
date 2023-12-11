@@ -1,12 +1,14 @@
 # HTML og CSS 
 
 ### Markmið:
-Nemendur
+
+Nemendur:
+
 - stofna vefumsjónarkerfi með Visual Studio Code
 - búa til HTML5 vefsíðu 
 - sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
-- Búa til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
-- Hanna útlit vefsíðunnar með CSS stílum
+- búa til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
+- hanna útlit vefsíðunnar með CSS stílum
 
 ---
 
@@ -38,7 +40,7 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
 
 ```
-<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> og <span> 
+<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
 ```
 ### 1.3 CSS
 
