@@ -57,24 +57,9 @@
 ### Námsmat
 
 1. **verkefni 10%.  Vefþróunarsvæði**
-   * Visual Studio Code innsetning
-   * HTML æfing 5%
-   * Tímaverkefni 5%
 1. **verkefni 10%. CSS, Box Modelið og display** 
-    * Æfingar 5% 
-    * Tímaverkefni 5%
 1. **verkefni 10%. Grid og Flex**
-   * Æfingar 5% 
-   * Tímaverkefni 10%
-1. **verkefni 20%. Sveigjanleg hönnun**
-   * Æfingar 5%
-   * Tímaverkefni 15% - _lykilmatsþáttur_
+1. **verkefni 20%. Sveigjanleg hönnun** _**Lykilmatsþáttur**_
 1. **verkefni 15%. Letur- og litaval. Efnisyfirlit, staðsetning taga** 
-   * Æfingar 5%
-   * Tímaverkefni 10%
 1. **verkefni 15%. Myndvinnsla**
-   * Æfingar 5%
-   * Tímaverkefni 10%
-1. **verkefni 20%. Video, audio og iframe**  
-   * Æfingar 5%
-   * Tímaverkefni 15% - _lykilmatsþáttur_
+1. **verkefni 20%. Video, audio og iframe**  _**Lykilmatsþáttur**_
