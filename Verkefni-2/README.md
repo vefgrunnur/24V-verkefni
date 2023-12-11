@@ -44,16 +44,15 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
 > nýtt !
 
-### 2.5 Leyniklasar _Pseudo classes_ nýtt!
+### 2.4 Leyniklasar _Pseudo classes_ 
  
-Í HTML síðuni á að setja tenglin sem vísar á aðra vefsíðu .........
+Setjið tengla í NAV tagið í vesíðunni sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í a skipunina í stílsíðunni 
 
 ```CSS
-  :link, :visited, :active, :hover  
+  a:link, a:visited, a:hover, a:active 
 
 ```
-
-
+Mynd
 
 ### Námsefni
 
