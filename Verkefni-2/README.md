@@ -38,7 +38,7 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
 ```HTML
 <header> <nav> <section> <main> <article> <aside> <footer> 
-``
+```
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 
 > nýtt !
@@ -50,7 +50,7 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 ```CSS
   :link, :visited, :active, :hover  
 
-``
+```
 
 
 
