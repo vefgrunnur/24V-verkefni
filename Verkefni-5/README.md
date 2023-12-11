@@ -29,3 +29,26 @@ Búðu til lista með eftirtöldum upplýsingum
 * Hentar litaþemað sem þú hefur valið, málefninu?
 
 Sækið leturgerðir á [Google font]() vefsíðuna sem hæfa efninu sem þú hefur valið.  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  
+
+
+### Bakgrunnsmynd í vefsíðu
+
+```CSS
+
+body {
+    background-color: #6ff;
+    background-image:url(flott-logo.svg);
+    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
+    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    background-position: center middle;
+    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
+    background-attachment: fixed; /* scroll */	
+}
+/* allar bakgrunns-skipanir í einni */
+body {			
+	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
+            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+
+}
+
+```
