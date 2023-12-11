@@ -18,11 +18,12 @@ Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 - Það gerir þú með því að nota eftirfarandi stillingar:
   - display: flex;
   - flex-flow: row-reverse;
-- Textinn í dálkunum á að vera **í miðju** dálkana. 
+- Neðri röðin á að vera lóðrétt röð
+- Textinn í dálkunum á að vera **í miðju** dálkana
  
 ![Flex](Namsefni-3/Flexbox/verk.2.4.JPG)
 
-- Einnig á að breyta neðri röðinni  eins og sýnt er hér
+
 
 ### 3.1 Dálkaskipulag 
 
