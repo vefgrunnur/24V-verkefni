@@ -13,7 +13,7 @@
 
 Skrifaðu 3 línur af texta og settu þær í fyrirsagnarletur &lt;H1>. Stílaðu textann eins og sýnt er hér á myndinni
 
-![Css æfing](Box-model/box-inheritance.JPG)
+![Css æfing](Námsefni/Box-model/box-inheritance.JPG)
 
 > H1 - padding - border - margin
 
@@ -36,9 +36,9 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 - Notaðu textann sem fylgir með ..............
 - Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
 
-```
+```HTML
 <header> <nav> <section> <main> <article> <aside> <footer> 
-```
+``
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 
 > nýtt !
@@ -46,6 +46,13 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 ### 2.5 Leyniklasar _Pseudo classes_ nýtt!
  
 Í HTML síðuni á að setja tenglin sem vísar á aðra vefsíðu .........
+
+```CSS
+  :link, :visited, :active, :hover  
+
+``
+
+
 
 ### Námsefni
 

@@ -29,7 +29,7 @@ Búðu til HTML vefsíðu og **notaðu efni sem þú hefur valið í 1. verkefni
 Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið **80em** (1280px) og hún á að vera miðjusett í skjáum sem eru stærri en 80em. Þú notar eigin texta og setur huldu klasa (_pseudo class_) á **A** tagið.
 
 ```
-color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  :link, :visited, :active, :hover  
+color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
 ```
 - [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-2/) <!--ath-->
 
