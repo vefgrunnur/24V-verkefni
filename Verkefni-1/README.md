@@ -21,8 +21,7 @@ Nemendur
 1. Opnaðu Visual Studio Code, veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum. 
 1. Búðu til HTML vefsíðu í Visual Studio sem á að nefna _index.html_. 
 1. Í möppunni [Námsefni-1](Námseefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
-1. Settu viðeigandi HTML tög utan um textann
-1. Notaðu viðeigandi tög til að gera textann læsilegan. 
+1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan. 
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
 
 ```
