@@ -5,7 +5,8 @@ Nemendur
 - stofna vefumsjónarkerfi með Visual Studio Code
 - búa til HTML5 vefsíðu 
 - sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
-- búa til stílsíðu og tengja hana við vefsíðuna
+- Hvað stendur HTML ívafsmálið fyrir
+- Hvernig hægt er að hanna útlit vefsíðu með CSS stílum
 
 ---
 
@@ -16,9 +17,27 @@ Nemendur
 1. Núna ertu tilbúinn að vinna í verkefnum áfangans.
 ---
 
-> Newmendur skila engu lokaverkefni, það eru samt 2 lykilmatsþættir í 4. og 7. verkefni.
+### 1.1 HTML
+ 
+Búðu til HTML vefsíðu og **notaðu efni sem þú hefur valið í 1. verkefni**. Settu viðeigandi HTML tög utan um textann, vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  Notaðu viðeigandi tög til að gera textann læsilegan. Settu inn amk. einn tengil sem vísar á aðra vefsíðu og notaðu huldu klasa (_pseudo class_) til að sýna hvort tengillin hefur verið opnaður eða ekki. 
 
-<!-- ## Efnisval og gagnasöfnun
+```
+<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> og <span> 
+```
+### 1.2 CSS
+
+Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið **80em** (1280px) og hún á að vera miðjusett í skjáum sem eru stærri en 80em. Þú notar eigin texta og setur huldu klasa (_pseudo class_) á **A** tagið.
+
+```
+color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  :link, :visited, :active, :hover  
+```
+- [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-2/) <!--ath-->
+
+
+
+<!-- ## Efnisval og gagnasöfnun OUT
+
+> Nemendur skila ekki lokaverkefni, það eru samt 2 lykilmatsþættir í 4. og 7. verkefni.
 
 Nemendur finna texta, ljósmyndir, tónlist og video sem þarf að vinna og skila eftir verkefnalýsingum áfangans. Nemendur bæta og breyta efni vefsins eftir því sem þurfa þykir út alla spönnina.
 
