@@ -16,7 +16,7 @@ Nemendur
 
 ---
 
-### 1.1 HTML
+### 1.1 Vefþróunarsvæði
 
 1. Opnaðu Visual Studio Code (VSC), veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
 1. Í VSC búðu til möppu og nefnu hana **"Verkefni-1"** og í þá möppu, HTML vefsíðu sem á að nefna _index.html_ 
@@ -25,7 +25,13 @@ Nemendur
   |_verkefni-1
     |_index.html
 ```
-1. 
+### 1.2 HTML
+
+VSC styður fjölmörg forritunarmál með alskyns litakóða og HTML skrár eru studdar dyggilega af VSC forritinu
+
+1. index.html skráin sem þú hefur búið til er allveg auð og til að byrja með en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_)
+eina sem þú þarft að gera er að slá inn `!` 
+![mynd 1]() velja **HTML5** og ýta síðan á `enter`
 1. Í möppunni [Námsefni-1](Námseefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
 1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
@@ -33,7 +39,7 @@ Nemendur
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> og <span> 
 ```
-### 1.2 CSS
+### 1.3 CSS
 
 Búðu til stílsíðu (Cascading Style Sheet) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið **80em** (1280px) og hún á að vera miðjusett í skjáum sem eru stærri en 80em. Þú notar eigin texta og setur huldu klasa (_pseudo class_) á **A** tagið.
 
