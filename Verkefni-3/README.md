@@ -10,9 +10,9 @@
 
 ### 3.1 Display Flexbox
 
-Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](verkefni-23-24/verkefni-nemar.zip) 
+Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](Namsefni-3/Flexbox/verkefni-nemar.zip) 
 
-- Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](Námsefni/Flexbox/before.2.4.JPG)
+- Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](Namsefni-3/Flexbox/before.2.4.JPG)
 - Breyttu efri röðinni (Row order) þannig að dálkarnir séu í einni **röð, gulur, rauður, grænn og blár**. 
 
 - Það gerir þú með því að nota eftirfarandi stillingar:
@@ -20,7 +20,7 @@ Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
   - flex-flow: row-reverse;
 - Textinn í dálkunum á að vera **í miðju** dálkana. 
  
-![Flex](Námsefni/Flexbox/verk.2.4.JPG)
+![Flex](Namsefni-3/Flexbox/verk.2.4.JPG)
 
 - Einnig á að breyta neðri röðinni  eins og sýnt er hér
 
