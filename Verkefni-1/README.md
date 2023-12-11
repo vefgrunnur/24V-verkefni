@@ -29,9 +29,9 @@ Nemendur
 
 VSC styður fjölmörg forritunarmál með alskyns litakóða og HTML skrár eru studdar dyggilega af VSC forritinu
 
-1. index.html skráin sem þú hefur búið til er allveg auð og til að byrja með en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_)
+1. index.html skráin sem þú hefur búið til er alveg auð og til að byrja með en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_)
 eina sem þú þarft að gera er að slá inn `!` 
-![mynd 1]() velja **HTML5** og ýta síðan á `enter`
+![Námsefni-1](Námsefni-1/img/boilerplate.jpg) síðan ýtir þá á `enter` eða `tab` takkann á lyklaborðinu þínu
 1. Í möppunni [Námsefni-1](Námseefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
 1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
