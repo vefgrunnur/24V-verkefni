@@ -29,7 +29,7 @@ Nemendur geta:
 
 ---
 
-### Sundurliðun námsmats (12%)
+### Lykilmatsþáttur ATH!
 
 * **4% Leturgerð (_font-family_)** valin af fonts.google.com.
     * Mismunandi stílar (font-styles) eru á fyrirsögn, millifyrirsögnum og meginmálsletri, tenglum og listum
