@@ -14,4 +14,4 @@
 
 ---
 
-![Grid 3](grid-33.jpg)
+![Grid 3](grid-34.jpg)
