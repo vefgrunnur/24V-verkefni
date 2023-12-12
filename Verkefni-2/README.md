@@ -73,7 +73,7 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 
 #### Tímaverkefni 10%
 
-- Tímaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** í sér skrá, (_.zip_). 
+- Tímaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Tímaverkefni-2** í sér skrá, (_.zip_). 
 
 #### Skil
 
