@@ -36,7 +36,7 @@
 | 3 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
 | 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
 | 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
+| 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
 | 8 | _Vetrarfrí_ | Video | Audio | Iframe |  
 | 9 | Staðsetning hluta (_positioning elements_) | --- | **Tímaverkefni**  | _Námsmat_ |
