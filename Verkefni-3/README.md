@@ -11,9 +11,9 @@
 
 ### 3.1 Display Flexbox
 
-Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](Namsefni-3/Flexbox/verkefni-nemar.zip) 
+> Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [Náðu í hana hér](Namsefni-3/verkefni-nemar.zip) 
 
-- Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](Namsefni-3/Flexbox/before.2.4.JPG)
+- Síðan lítur svona út þegar þú opnar hana í vafra ![ekki flex](Namsefni-3/Flexbox/before.3.1.jpg)
 - Breyttu efri röðinni (Row order) þannig að dálkarnir séu í einni **röð, gulur, rauður, grænn og blár**. 
 - Það gerir þú með því að nota eftirfarandi stillingar:
   - display: flex;
@@ -21,16 +21,18 @@ Meðfylgjandi verkefni 2 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 - Neðri röðin á að vera lóðrétt röð
 - Textinn í dálkunum á að vera **í miðju** dálkana
  
-![Flex](Namsefni-3/Flexbox/verk.2.4.JPG)
+![Flex](Namsefni-3/Flexbox/verk.3.1.jpg)
 
+---
 
-
-### 3.2 Dálkaskipulag 
+### 3.2 Grid dálkar 
 
 Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka uppsetningu, 3 dálka uppsetningu og 4 dálka uppsetningu. 
 
 - Notaðu css skipunina **display: grid**
 - [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
+
+---
 
 ### 3.3 Grid skipulag / layout
 
