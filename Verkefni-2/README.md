@@ -69,6 +69,8 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 - 2.3 Display: float 
 - 2.4 Hulduklasar _Pseudo classes_
 
+- Tímaverkefni 10%
+
 #### Skil
 
 Vefsíðum og stílsíðum er skilað í Innu/VEFÞ1VG/**Verkefni-2**. 
