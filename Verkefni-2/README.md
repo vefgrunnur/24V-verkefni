@@ -28,21 +28,22 @@ Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html sí
 
 Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda og raða upp eins og sýnt er hér á myndinni.
 
-![float](Námsefni/verk.2.3.JPG)
+![float](Námsefni/v.2.2.jpg)
 
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
 ### 2.3 HTML5 ritháttur.  
 
-- Notaðu textann sem fylgir með ..............
-- Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
+Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 ```HTML
 <header> <nav> <section> <main> <article> <aside> <footer> 
 ```
-- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 
-> nýtt !
+![html5 vefsíða](Námsefni/v2.3.jpg)
+
+- Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
+- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
 
 ### 2.4 Leyniklasar _Pseudo classes_ 
  
@@ -52,7 +53,7 @@ Setjið tengla í NAV tagið í vesíðunni sem þú varst að búa til. Tenglar
   a:link, a:visited, a:hover, a:active 
 
 ```
-Mynd
+![hulduklasar](Námsefni/v2.4.jpg)
 
 ### Námsefni
 
