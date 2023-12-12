@@ -33,9 +33,9 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 ---
 
-### Námsmat 
+### Lykilmatsþáttur
 
-#### Æfingaverkefni
+#### Æfingaverkefni 5%
 
 * **2% 4.1 Viðmið 2, 3 og 4 dálkum**
     * 0 – 767px. Allir dálkar skiptast í einn dálk (1fr)
