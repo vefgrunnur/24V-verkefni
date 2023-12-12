@@ -21,7 +21,7 @@ Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðuna sveigjanlega.  
 
 ---
 
-## 4.2 Sveigjanlegur vefur
+## 4.2 Sveigjanleg vefsíða
 
 Afritaðu vefsíðu og stílsíðu sem þú gerðir í _verkefni 3.2_ og vistaðu vefsíðuna í nýja möppu sem þú getur nefnt **verkefni-42**. 
 
