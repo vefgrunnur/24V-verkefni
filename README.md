@@ -36,28 +36,28 @@
 | 3 | Box modelið - display: inline - block, float | Ritháttur HTML5 | Hulduklasar - _pseudo classes_ | **Tímaverkefni** | 
 | 4 | Flexbox | Grid | Grid skipulag | **Tímaverkefni** |   
 | 5 | Sveiganleg hönnun  @media | Grid skipulag | Flex,  efnisyfirlit | **Tímaverkefni** | 
-| 6 | Leturval, fonts.google  | Litaval (style tyle) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
+| 6 | Leturval, fonts.google  | Litaval (_Style tyle_) og bakgrunnar | Leiðakerfi (_links id_) | **Tímaverkefni** | 
 | 7 | Myndvinnsla í Photopea | Mynd með gagnsæjum grunni | Unnið með mismunandi stærðir &lt;picture> | **Tímaverkefni** |       
 | 8 | _Vetrarfrí_ | Video | Audio | Iframe |  
 | 9 | Staðsetning hluta (_positioning elements_) | --- | **Tímaverkefni**  | _Námsmat_ |
 
 ### Námsmat
 
-1. **verkefni 10%.  Vefþróunarsvæði**
-1. **verkefni 10%. CSS, Box Modelið og display** 
-1. **verkefni 10%. Grid og Flex**
-1. **verkefni 20%. Sveigjanleg hönnun**. - _**Lykilmatsþáttur**_
-1. **verkefni 15%. Letur- og litaval. Efnisyfirlit, staðsetning taga** 
-1. **verkefni 15%. Myndvinnsla**
-1. **verkefni 20%. Video, audio, iframe og Staðsetning hluta**. -  _**Lykilmatsþáttur**_
+1. verkefni 10%.  Vefþróunarsvæði
+1. verkefni 10%. CSS, Box Modelið og display 
+1. verkefni 10%. Grid og Flex
+1. verkefni 20%. Sveigjanleg hönnun. - _**Lykilmatsþáttur**_
+1. verkefni 15%. Letur- og litaval. Leiðakerfi
+1. verkefni 15%. Myndvinnsla
+1. verkefni 20%. Video, audio, iframe og Staðsetning hluta. -  _**Lykilmatsþáttur**_
 
 ---
 
 ### Verkefnaskil 
 
--  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/verkefni(x) í .zip skrá
--  Öllum æfingaverkefnum er skilað í sömu verkefnaskil í sér .zip skrá
+-  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/verkefni(x) í .zip skrá (_Compressed folder_)
+-  Öllum æfingaverkefnum er skilað í sömu verkefnaskil í sér .zip skrá 
 -  Einkunn fyrir verkefnin birtast í Innu
 ---
 
-#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki) ath!
+#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki)
