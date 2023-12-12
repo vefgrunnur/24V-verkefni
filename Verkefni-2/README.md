@@ -55,7 +55,7 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 ```
 ![hulduklasar](Námsefni/v2.4.jpg)
 
----
+Það eiga að vera aðrir stílar á ` footer a ` 
 
 ### Námsmat ath!
 
