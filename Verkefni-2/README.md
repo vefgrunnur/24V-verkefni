@@ -61,20 +61,24 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 
 Það eiga að vera aðrir stílar á ` footer a ` 
 
-### Námsmat ath!
+### Námsmat
 
-Æfingaverkefni 5%
+#### Æfingaverkefni 5%
+
 - 2.1 Box módelið 
 - 2.2 "_display_" stillingar  
 - 2.3 Display: float 
 - 2.4 Hulduklasar _Pseudo classes_
+- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** í þjappaðri skrá, (_.zip_). 
 
-- Tímaverkefni 10%
+#### Tímaverkefni 10%
+
+- Tímaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** í sér skrá, (_.zip_). 
 
 #### Skil
 
-- Tímaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** í þjappaðri skrá, (_.zip_). 
-- Æfingaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** er skilað í annari þjappaðri skrá, (_.zip_). 
+
+
 
 
 #### Einkunn verður birt í Innu
