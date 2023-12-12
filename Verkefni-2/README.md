@@ -51,7 +51,7 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 ### 2.4 Leyniklasar _Pseudo classes_ 
  
-Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1 - 2.2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðunni 
+Setjið tengla (_links_) í NAV tagið í efst vefsíðuna sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1-2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðuna. 
 
 ```CSS
   a:link, a:visited, a:hover, a:active 
@@ -69,7 +69,7 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 - 2.2 "_display_" stillingar  
 - 2.3 Display: float 
 - 2.4 Hulduklasar _Pseudo classes_
-- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **æfingar.zip**. 
+- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
 
 #### Tímaverkefni 10%
 
