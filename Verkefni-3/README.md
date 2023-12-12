@@ -38,6 +38,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
 * [Vefhönnun Wiki](https://github.com/vefgrunnur/24V-verkefni/wiki#skipulag-me%C3%B0-css-grindakerfi)
 
+---
 
 ### Námsmat 
 
