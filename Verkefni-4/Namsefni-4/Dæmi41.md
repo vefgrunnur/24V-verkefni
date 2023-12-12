@@ -1,4 +1,4 @@
-# Synidæmi 4.1
+# Sýnidæmi 4.1
 
 - 0px - 600px: Grid template-column: 1fr;
 
