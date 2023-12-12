@@ -32,27 +32,20 @@ Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka up
 - Notaðu css skipunina **display: grid**
 - [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
 
----
 
-### 3.3 Grid skipulag / layout
+### Hér eru sýnidæmi um skipulag vefsíðu: 
 
-Nú þarf að skipuleggja vefsíðu sem verður grunnur (_boilerplate_) undir vefinn þinn. Hvernig vilt þú hafa skipulag vefsins?
-Vefsíðan á að hafa haus (_header_), efnisyfirlit (_nav_), aðaldálk (_main_), 1 eða 2 hliðardálka (_aside_)  og undirtextadálk (_footer_).  
-
-
-- Hér eru sýnidæmi um skipulag vefsíðu: 
-  - [**Skipulag 1**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-32/)
-  - [**Skipulag 2**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-33/)
-  - [**Skipulag 3**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-34/)
+  - [**Grid skipulag**](Namsefni-3/Grid/Readme.md)
 
 
 ### Námsefni
 
-* [HTML5 semantics](https://github.com/vefgrunnur/23-verkefni-s1/blob/main/Verkefni-3/Namsefni-3/semantic.html)
 * [Css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [Gridbyexample](https://gridbyexample.com/examples/)
 
-### Námsmat 12%
+### Námsmat 
+
+
 
 - **3.1 Æfing, dálkar með grid 2%** 
   - col-2, col-3 og col-4
