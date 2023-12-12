@@ -10,19 +10,6 @@
 1. verkefni. [Myndvinnsla](Verkefni-6/)
 1. verkefni. [Innsetning miðla (API) og staðsetning taga](Verkefni-7/README.md) 
 
-
-### Verkefnaskil 
- 
--  Öllum æfingaverkefnum er skilað í Innu/VEFÞ1VG05AU/Verkefni 
--  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/Tímaverkefni
--  Einkunn fyrir verkefnin birtast í Innu
-
----
-
-#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki) ath!
-
----
-
 ### Námsáætlun
 
 #### 2024 vor, spönn 1. 
@@ -63,3 +50,14 @@
 1. **verkefni 15%. Letur- og litaval. Efnisyfirlit, staðsetning taga** 
 1. **verkefni 15%. Myndvinnsla**
 1. **verkefni 20%. Video, audio, iframe og Staðsetning hluta**. -  _**Lykilmatsþáttur**_
+
+---
+
+### Verkefnaskil 
+ 
+-  Öllum æfingaverkefnum er skilað í Innu/VEFÞ1VG05AU/Verkefni 
+-  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/Tímaverkefni
+-  Einkunn fyrir verkefnin birtast í Innu
+---
+
+#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki) ath!
