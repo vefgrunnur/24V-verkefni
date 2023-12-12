@@ -4,20 +4,20 @@
 
 Nemendur öðlast skilning á:
 
-* hönnun svegjanlegs viðmóts (_Respnsive Web_) vefsíðu
+* hönnun svegjanlegs viðmóts vefsíðu (_Responsive Web Design_)
 * hvernig hægt er að vinna með CSS _@media_ skipunina til að breyta skipulagi vefsíðu miðað við skjástærð 
 
 Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáum. Til að hafa áhrif á skipulag HTML síðu setjum við inn viðmið (_breakpoints_) í CSS stílsíðuna.  Við notum **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.  
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
+Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px, allir dálkar með 100% breidd (1fr)
 * Viðmið: 600px – 767px, 2 og 4 dálkar með 50% breidd (1fr 1fr)
 * Viðmið: 768px – 959px, 2 dálkar 50% breidd (1fr 1fr), 3 dálkar 33.33% breidd (1fr 1fr 1fr) og 4 dálkar 25% breidd (1fr 1fr 1fr 1fr)
 
-#### [Dæmi 4.1](Namsefni-4/README.md)
+#### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
 ## 4.2 Sveigjanlegur vefur
 
