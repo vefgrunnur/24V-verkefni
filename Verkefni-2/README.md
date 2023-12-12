@@ -75,4 +75,6 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 
 - Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
 
+> Skil á verkefni lokast þegar síðasta kennslutíma verkefnis er lokið
+
 #### Einkunn verður birt í Innu
