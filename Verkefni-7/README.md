@@ -27,6 +27,8 @@ Nemendur geta:
 
 * Settu „_Google_“ kort á vefsíðuna þína, það  getur vísað á stað sem tengist efni vefsins.
 
+---
+
 ### Sundurliðun námsmats (12%)
 
 * **4% Leturgerð (_font-family_)** valin af fonts.google.com.
