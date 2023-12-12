@@ -73,8 +73,8 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 
 #### Skil
 
-Vefsíðum og stílsíðum er skilað í Innu/VEFÞ1VG/**Verkefni-2**. 
+- Tímaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** í þjappaðri skrá, (_.zip_). 
+- Æfingaverkefni  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/**Verkefni-2** er skilað í annari þjappaðri skrá, (_.zip_). 
 
-> Athugið að sýnidæmi eru ekki metin til einkunnar
 
 #### Einkunn verður birt í Innu
