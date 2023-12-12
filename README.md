@@ -1,6 +1,6 @@
 # Verkefni VEFÞ1VG05A
 
-> ATH! það þarf að lagfæra allar verklýsingar og búa til tímaverkefni/próf.
+> ATH! það þarf að lagfæra allar verklýsingar og búa til tímaverkefni.
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
@@ -14,7 +14,7 @@
 
 #### 2024 vor, spönn 1. 
 
-| Vika  | Verkefni  | Nr. | Æfingar% | Próf % |
+| Vika  | Verkefni  | Nr. | Æfingar% | Tímaverkefni % |
 |---|---|---|---|---|
 | 1  | Uppsetning vefþróunarsvæðis  | 1  | x | x |
 | 2  | HTML og CSS | 1  | 5 | 5 |
