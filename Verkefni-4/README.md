@@ -48,11 +48,8 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
     * 960px + Efni vefsíðunnar er miðjusett (_max-width_) í vafranum
 *  **1% 4.2.2 Valmynd sveigjanleg**
     * Valmynd (nav) skal vera svegjanleg (_display:flex_)
-    * Tengla (_links_) í valmynd skal stíla (ekki hafa sjálfgefnar stillingar)
 
 #### Tímaverkefni 15%
-
---- 
 
 > Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
