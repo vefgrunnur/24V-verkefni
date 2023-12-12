@@ -6,8 +6,8 @@ Nemdnur geta:
 
 - skilið hvernig box módelið virkar 
 - breytt eiginleikum taga með _display:_ 
+- sett mynd með texta, _float_
 - ritað vefsíður í HTML5 rithætti (_HTML5 Semantics_)
-- notað mismunandi tög fyrir mismunandi hluta vefsíðu (HTML5 Semantics)
 - stílað leyniklasa (_pseudo classes_) á tög 
 
 ---
