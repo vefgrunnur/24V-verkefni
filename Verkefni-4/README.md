@@ -37,10 +37,10 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 #### Æfingaverkefni
 
-* **2% 4.1 Dálkaskipulag.** Vefsíða með 2, 3 eða 4 dálkum  
-    * 0 – 599px (Allir dálkar skiptast í 1fr)
-    * 600px – 767px (2, 4 dálkar skiptast í 1fr 1fr)
-    * 768px – + (Allir dálkar skiptast rétt, 2, 3 og 4 dálkar)
+* **2% 4.1 Viðmið 2, 3 og 4 dálkum**
+    * 0 – 767px. Allir dálkar skiptast í einn dálk (1fr)
+    * 768px. 2 og 4 dálkar skiptast í 2 dálka (1fr 1fr)
+    * 960px – + (Allir dálkar skiptast rétt, 2, 3 og 4 dálkar)
 * **2% 4.2.1 Vefsíða með viðmiðum**
     * Mobile: 0 – 599px  _eins dálks hönnun_  
     * Tablet: 600px – 767px _tveggja dálka hönnun_
