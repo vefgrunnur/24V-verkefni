@@ -23,8 +23,9 @@ Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðuna sveigjanlega.  
 
 ## 4.2 Sveigjanlegur vefur
 
-Afritaðu eina af vefsíðunum og stílsíðu sem þú gerðir í _verkefni 3.2_ og vistaðu vesíðuna í nýja möppu sem þú getur nefnt **verkefni-42**. Nú er komið að gera vefsíðuna sveigjanlega. HTML tögin eru skiljanleg ss ` <header> <nav> <main> <article> <aside> og <footer>`.
-Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint @media …_) til að stjórna skipulagi vefsíðunnar. 
+Afritaðu vefsíðu og stílsíðu sem þú gerðir í _verkefni 3.2_ og vistaðu vefsíðuna í nýja möppu sem þú getur nefnt **verkefni-42**. 
+
+Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint @media …_) til að stjórna skipulagi vefsíðunnar. 
 
 #### [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
@@ -53,7 +54,6 @@ Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birt
         }
         ```
 *  **4% Texti notaður sem þú hefur samið og skipulagt** 
-    * Vefur með forsíðu og einni undirsíðu (_lágmark_) eða fleiri
     * Allir tenglar á milli síðna virkir með huldu klösum (_pseudo classes, link, visited, hover og active_)  
 
 ### Verkefnaskil:  
