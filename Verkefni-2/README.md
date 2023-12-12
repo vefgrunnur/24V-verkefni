@@ -32,6 +32,8 @@ Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda o
 
 Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
+---
+
 ### 2.3 HTML5 ritháttur.  
 
 Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
@@ -44,6 +46,8 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 - Notaðu **HTML 5** rithátt til að byggja vefsíðuna upp með réttum hætti
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) 
+
+---
 
 ### 2.4 Leyniklasar _Pseudo classes_ 
  
