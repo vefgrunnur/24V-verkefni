@@ -47,7 +47,7 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 ### 2.4 Leyniklasar _Pseudo classes_ 
  
-Setjið tengla í NAV tagið í vesíðunni sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í a skipunina í stílsíðunni 
+Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1 - 2.2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðunni 
 
 ```CSS
   a:link, a:visited, a:hover, a:active 
@@ -55,10 +55,7 @@ Setjið tengla í NAV tagið í vesíðunni sem þú varst að búa til. Tenglar
 ```
 ![hulduklasar](Námsefni/v2.4.jpg)
 
-### Námsefni
-
-- [Box módelið](Box-model/)
-- Eiginleikar taga (_Display settings_)
+---
 
 ### Námsmat ath!
 
