@@ -52,11 +52,9 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 #### Tímaverkefni 15%
 
-### Verkefnaskil:  
+--- 
 
-Öllum gögnum er skilað í **Innu/VEFÞ1/Verkefni 4**.
-
-> **Athugið** að sýnindæmi eru ekki metin til einkunnar.
+> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
 
