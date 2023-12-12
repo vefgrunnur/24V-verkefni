@@ -6,7 +6,7 @@ Nemendur öðlast skilning á:
 
 * hönnun svegjanlegs viðmóts (_Respnsive Web_)
 * Hvernig hægt er að vinna með _Grid_ 
-* hvernig hægt er að setja bakgrunnsliti í vefsíðu
+
 
 
 Skipulag vefsíðu með 2 dálkum eða fleiri gengur ekki upp í litlum farsímaskjáum. Til að hafa áhrif á skipulag HTML síðu setjum við inn viðmið (_breakpoints_) í CSS stílsíðuna.  

@@ -2,13 +2,13 @@
 
 ### Markmið:
 
-Nemendur:
+Nemendur geta:
 
-- stofna vefumsjónarkerfi með Visual Studio Code
-- búa til HTML5 vefsíðu 
-- sækja viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
-- búa til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
-- hanna útlit vefsíðunnar með CSS stílum
+- stofnað vefumsjónarkerfi með Visual Studio Code
+- búið til HTML5 vefsíðu 
+- sótt viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
+- búið til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
+- hannað útlit vefsíðunnar með CSS stílum
 
 ---
 

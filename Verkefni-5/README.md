@@ -6,9 +6,11 @@
 ### Markmið:
 
 Nemendur geta:
-* Unnið með mismunandi leturgerðir og náð í leturtýpur á [Google Fonts](https://fonts.google.com/). 
+
+* unnið með mismunandi leturgerðir og náð í leturtýpur á [Google Fonts](https://fonts.google.com/). 
 * skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_).
-* Fundið samræmi í leturgerð og litanotkun miðað við efni vefs 
+* fundið samræmi í leturgerð og litanotkun miðað við efni vefs 
+* sett bakgrunnsliti í vefsíðu
 
 ---
 
