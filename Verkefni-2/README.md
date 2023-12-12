@@ -51,7 +51,7 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 ### 2.4 Leyniklasar _Pseudo classes_ 
  
-Setjið tengla (_links_) í NAV tagið í efst vefsíðuna sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1-2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðuna. 
+Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1-2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðuna. 
 
 ```CSS
   a:link, a:visited, a:hover, a:active 
