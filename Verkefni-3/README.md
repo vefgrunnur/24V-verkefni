@@ -27,37 +27,31 @@
 
 ### 3.2 Grid dálkar 
 
-Búðu til HTML vefsíðu og tengdu hana við css skrá.  Búðu til 2 dálka uppsetningu, 3 dálka uppsetningu og 4 dálka uppsetningu. 
-
-- Notaðu css skipunina **display: grid**
-- [**Sýnidæmi**](https://vefgrunnur.github.io/synidaemi/verkefni-3/verkefni-31/)
-
+Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
 ### Hér eru sýnidæmi um skipulag vefsíðu: 
 
   - [**Grid skipulag**](Namsefni-3/Grid/Readme.md)
 
 
-### Námsefni
+### Bjargir
 
-* [Css-tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* [Gridbyexample](https://gridbyexample.com/examples/)
+* [Vefhönnun Wiki](https://github.com/vefgrunnur/24V-verkefni/wiki#skipulag-me%C3%B0-css-grindakerfi)
+
 
 ### Námsmat 
 
+#### Æfingaverkefni 5%
 
-
-- **3.1 Æfing, dálkar með grid 2%** 
-  - col-2, col-3 og col-4
-- **3.2 Eigið Grid skipulag / layout 10%**
-  - Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með eigin CSS grid skipulagi
+- 3.1 Æfing, Grid dálkar ` col-2, col-3 og col-4 `
+- 3.2 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
   - `header` `nav` `main` `section` `article` `aside` `footer`
-  - **Texti notaður sem þú hefur samið og skipulagt** (_þema kvikmyndir_) 
-  
-#### Skil
+- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
 
-Verkþáttum er skilað í  **Innu/VEFÞ1VG/Verkefni 3** /Verkefni-31 og Verkefni-32
+#### Tímaverkefni 10%
 
-> Sýnidæmin eru ekki metin til einkunnar
+- Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í sér skrá, **Tímaverkefni.zip**. 
+
+> Skil á verkefni 3 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
