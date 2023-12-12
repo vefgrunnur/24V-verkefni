@@ -34,10 +34,4 @@ body {
 
 ``` 
 
-#### Skipulag með CSS grindakerfi
-
-* https://gridbyexample.com/
-* [CSSGRID.IO](https://cssgrid.io/)
-* [Codrops - CSS References](https://tympanus.net/codrops/css_reference/grid/)
-* [Learn CSS Grid](https://scrimba.com/g/gR8PTE)
 
