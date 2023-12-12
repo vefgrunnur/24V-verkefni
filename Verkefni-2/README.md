@@ -69,11 +69,11 @@ Setjið tengla í NAV tagið í vefíðuna sem þú varst að búa til. Tenglarn
 - 2.2 "_display_" stillingar  
 - 2.3 Display: float 
 - 2.4 Hulduklasar _Pseudo classes_
-- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í Innu/VEFÞ1VG/Verkefni-2 í þjappaðri skrá, **æfingar_.zip**. 
+- Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **æfingar_.zip**. 
 
 #### Tímaverkefni 10%
 
-- Tímaverkefni  (Vefsíða og stílsíða) er skilað í Innu/VEFÞ1VG/Verkefni-2 í sér skrá, **Tímaverkefni.zip**. 
+- Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
 
 #### Skil
 
