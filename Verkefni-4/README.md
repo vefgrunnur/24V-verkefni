@@ -19,12 +19,14 @@ Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðuna sveigjanlega.  
 
 #### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
+---
+
 ## 4.2 Sveigjanlegur vefur
 
 Afritaðu eina af vefsíðunum og stílsíðu sem þú gerðir í _verkefni 3.2_ og vistaðu vesíðuna í nýja möppu sem þú getur nefnt **verkefni-42**. Nú er komið að gera vefsíðuna sveigjanlega. HTML tögin eru skiljanleg ss ` <header> <nav> <main> <article> <aside> og <footer>`.
 Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint @media …_) til að stjórna skipulagi vefsíðunnar. 
 
-#### [Sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-4/index.html)
+#### [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
 ### Námsmat 20% 
 
