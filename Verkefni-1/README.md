@@ -6,7 +6,7 @@ Nemendur geta:
 
 - stofnað vefumsjónarkerfi með Visual Studio Code
 - búið til HTML5 vefsíðu 
-- sótt viðbótina _Live Server_ (_extension_) og skoða vefsíðun í vafra _localhost_
+- sótt viðbótina _Live Server_ (_extension_) og skoðað vefsíðuna í vafra (_localhost_)
 - búið til HTML vefsíðu og nota HTML ívafsmálið til að gera texta læsilegan
 - hannað útlit vefsíðunnar með CSS stílum
 
