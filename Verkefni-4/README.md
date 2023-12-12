@@ -31,32 +31,26 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 #### [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
-### Námsmat 20% 
+---
+
+### Námsmat 
+
+#### Æfingaverkefni
 
 * **2% 4.1 Dálkaskipulag.** Vefsíða með 2, 3 eða 4 dálkum  
     * 0 – 599px (Allir dálkar skiptast í 1fr)
     * 600px – 767px (2, 4 dálkar skiptast í 1fr 1fr)
     * 768px – + (Allir dálkar skiptast rétt, 2, 3 og 4 dálkar)
-* **8% 4.2.1 Vefsíða með viðmiðum**
+* **2% 4.2.1 Vefsíða með viðmiðum**
     * Mobile: 0 – 599px  _eins dálks hönnun_  
     * Tablet: 600px – 767px _tveggja dálka hönnun_
     * Desktop: 768px – 959px _3 eða 4 + dálka hönnun_
     * 960px + Efni vefsíðunnar er miðjusett (_max-width_) í vafranum
-*  **3% 4.2.2 Valmynd sveigjanleg og bakgrunnslitir**
+*  **1% 4.2.2 Valmynd sveigjanleg**
     * Valmynd (nav) skal vera svegjanleg (_display:flex_)
     * Tengla (_links_) í valmynd skal stíla (ekki hafa sjálfgefnar stillingar)
-    * Mismunandi bakgrunnslitir í `nav, main og footer`
-*  **3% 4.2.3 Rétt notkun taga og framsetning á HTML og CSS**
-    * HTML5 ritháttur, hreiðruð tög inndreginn
-      * `nav, header, main, aside, article og footer`
-    * Uppsetning á CSS
-      * ```css
-        .daemi {
-            skipun:gildi;
-        }
-        ```
-*  **4% Texti notaður sem þú hefur samið og skipulagt** 
-    * Allir tenglar á milli síðna virkir með huldu klösum (_pseudo classes, link, visited, hover og active_)  
+
+#### Tímaverkefni 15%
 
 ### Verkefnaskil:  
 
