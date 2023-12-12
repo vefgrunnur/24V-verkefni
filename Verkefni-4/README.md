@@ -7,8 +7,6 @@ Nemendur öðlast skilning á:
 * hönnun svegjanlegs viðmóts (_Respnsive Web_)
 * Hvernig hægt er að vinna með _Grid_ 
 
-
-
 Skipulag vefsíðu með 2 dálkum eða fleiri gengur ekki upp í litlum farsímaskjáum. Til að hafa áhrif á skipulag HTML síðu setjum við inn viðmið (_breakpoints_) í CSS stílsíðuna.  
 
 Við notum **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.  

@@ -1,5 +1,3 @@
-> Nýtt flexbox
-
 # Skipulag vefsíðu með Grid Layout og Flex
 
 ### Markmið:
@@ -8,7 +6,7 @@ Nemendur geta:
 
 - endurraðað tögum með Flex stílum
 - hannað skipulag (_layout_) vefsíðu með CSS grid stílum
-- settt upp vefsíðu og unnið eftir eigin skipulagi
+- sett upp vefsíðu og unnið eftir eigin skipulagi
 
 ### 3.1 Display Flexbox
 
@@ -47,7 +45,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3
 
 - 3.1 Æfing, Grid dálkar ` col-2, col-3 og col-4 `
 - 3.2 Vefsíða sett upp í HTML5 rithætti - (_Semantics_) með CSS grid skipulagi
-  - `header` `nav` `main` `section` `article` `aside` `footer`
+  - `header` `nav` `main` `article` `aside` `footer`
 - Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-3_ í þjappaðri skrá, **Æfingar.zip**. 
 
 #### Tímaverkefni 10%
