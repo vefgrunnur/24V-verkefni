@@ -21,8 +21,7 @@ Afritaðu verkefni 3.1 yfir í verkefni 4.1 og gerum vefsíðuna sveigjanlega.  
 
 ## 4.2 Sveigjanlegur vefur
 
-Nú er komið að gera vefinn þinn sveigjanlegan. HTML tög eiga að hafa skiljanlega merkingu í uppsetningunni,  helstu tögin eru ` <header> <nav> <main> <section> <article> <aside> og <footer>`, [sjá öll tögin hér](https://www.w3schools.com/html/html5_semantic_elements.asp).  
-
+Afritaðu eina af vefsíðunum og stílsíðu sem þú gerðir í _verkefni 3.2_ og vistaðu vesíðuna í nýja möppu sem þú getur nefnt **verkefni-42**. Nú er komið að gera vefsíðuna sveigjanlega. HTML tögin eru skiljanleg ss ` <header> <nav> <main> <article> <aside> og <footer>`.
 Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint @media …_) til að stjórna skipulagi vefsíðunnar. 
 
 #### [Sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-4/index.html)
