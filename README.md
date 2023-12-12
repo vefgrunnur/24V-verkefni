@@ -60,4 +60,4 @@
 -  Einkunn fyrir verkefnin birtast í Innu
 ---
 
-#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki) ath!
+#### [Bjargir](https://github.com/vefgrunnur/24V-verkefni/wiki)
