@@ -2,10 +2,12 @@
 
 #### Farsími - Mobile
 
-![Farsímaskjár](Namsefni-5/Dæmi/v5.1.mobile.jpg)![Farsímaskjár 2](Namsefni-5/Dæmi/v5.2.mobile.jpg)
+![Farsímaskjár](v5.1.mobile.jpg) &nbsp; ![Farsímaskjár 2](v5.2.mobile.jpg)
 
 #### Spjaldtölva - Tablet
 
-![Spjaldtölva]()
+![Spjaldtölva](v5.1.tablet.jpg)
+
+![Spjaldtölva](v5.2.tablet.jpg)
 
 
