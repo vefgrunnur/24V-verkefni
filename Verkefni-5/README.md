@@ -56,7 +56,7 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 * 1% 5.3 Leiðakerfi
 
 
-#### Tímaverkefni 15%
+#### Tímaverkefni 10%
 
 > Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
