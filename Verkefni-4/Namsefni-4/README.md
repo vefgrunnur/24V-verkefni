@@ -8,7 +8,7 @@
 body {
   background-color: lightblue;
   font-family: sans-serif;
-  color: white;
+  color: darkblue;
 }
 
 @media only screen and (min-width: 600px) {  /* skjáir (screen) sem eru stærri en 600px */
