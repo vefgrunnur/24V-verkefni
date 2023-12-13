@@ -24,7 +24,7 @@ Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **verkefni-41** og ger
   * 3 dálkar 33.33% breidd (1fr 1fr 1fr) 
   * 4 dálkar 25% breidd (4, 1fr)
 
-
+#### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
 ---
 
@@ -33,8 +33,6 @@ Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **verkefni-41** og ger
 Afritaðu vefsíðu og stílsíðu sem þú gerðir í verkefni 3.2 og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-42**. 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
-
-#### [Sjá dæmi um viðmið](Namsefni-4/)
 
 #### [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
