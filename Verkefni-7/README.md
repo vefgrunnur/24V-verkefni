@@ -33,9 +33,9 @@ Nemendur geta:
 
 #### Æfingaverkefni 5%
 
-* **2% Kvikmynd er á vefsíðunni &lt;iframe>**
-* **2% Kort er á vefsíðunni &lt;iframe>**
-* **1% Hljóðskrá er á vefsíðunni &lt;audio>**
+* 2% Kvikmynd er á vefsíðunni &lt;iframe> _share video from mediaserver_
+* 2% Kort er á vefsíðunni &lt;iframe> _embed google map_
+* 1% Hljóðskrá er á vefsíðunni &lt;audio> _mp3 format_
 
 #### Tímaverkefni 15%
 
