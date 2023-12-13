@@ -6,6 +6,7 @@
 
 /* Fyrst koma stílar sem gilda í öllum skjástærðum ss. leturgerð og litir */
 /* Farsími lóðrétt, Molile vertical */
+
 body {
 	font-family: sans-serif;
 	background-color: lightblue;
