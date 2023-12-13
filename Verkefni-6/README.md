@@ -32,9 +32,9 @@ Meðfylgjandi verkefnalýsingunni er [vefsíða, stílsíða og myndir](Namsefni
 
 **[Photopea](https://www.photopea.com/)** er myndvinnsluforrit (_app_) sem keyrir í vafra.
 
-    * Myndir skornar:  _Toolbar -> Crop Tool_
-    * Myndir settar í rétta stærð: _Image -> Canvas size_.
-    * Þjöppun fyrir vef  í Photopea  -> _Export -> .jpg eða .png_
+* Myndir skornar:  _Toolbar -> Crop Tool_
+* Myndir settar í rétta stærð: _Image -> Canvas size_.
+* Þjöppun fyrir vef  í Photopea  -> _Export -> .jpg eða .png_
     
 Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem myndin birtist í. En nú getur stærð rammans verið mismunandi og þá er mikilvægt að **hafa eftirfarandi grunnstillingu á img taginu í stílsíðu** 
 
