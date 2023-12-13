@@ -32,7 +32,7 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 * Litskipting í bakgrunni
 * Bakgrunns-litaskali (_Background gradient color_)
-    * [Sýnidæmi](Namsefni-5/Readme.md) 
+    * [Sýnidæmi](Namsefni-5/Dæmi/Readme.md#fartölva---laptop) 
 * Hafið góða skerpu (_contrast_) á milli bakgrunnslitar og leturs
 
 ---
@@ -44,7 +44,7 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
 
-#### [Sjá sýnidæmi](Namsefni-5/Readme.md#)
+#### [Efnisyfirlit _footer_](Namsefni-5/Dæmi/Readme.md#efnisyfirlit---mobile)
 
 ---
 
