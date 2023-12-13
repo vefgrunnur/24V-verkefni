@@ -1,4 +1,4 @@
-# Íhlutir (API) og staðsetning taga (nýtt!)
+# Íhlutir (API) og staðsetning taga
 
 ### Markmið:
 
@@ -29,23 +29,18 @@ Nemendur geta:
 
 ---
 
-### Lykilmatsþáttur ATH!
+### Lykilmatsþáttur 
 
-* **4% Leturgerð (_font-family_)** valin af fonts.google.com.
-    * Mismunandi stílar (font-styles) eru á fyrirsögn, millifyrirsögnum og meginmálsletri, tenglum og listum
-    * Góð skerpa í litasamsetningu leturs og bakgrunns
+#### Æfingaverkefni 5%
+
 * **2% Kvikmynd er á vefsíðunni &lt;iframe>**
 * **2% Kort er á vefsíðunni &lt;iframe>**
-* **2% Hljóðskrá er á vefsíðunni &lt;audio>**
-* **2% Efnisyfirlit**
-    * Allir tenglar í efnisyfirliti virka
-    * Ákveðin staðsetning 
-      * Tengill sem vísar efst á síðu er alltaf sýnilegur neðst á skjánum
+* **1% Hljóðskrá er á vefsíðunni &lt;audio>**
 
+#### Tímaverkefni 15%
 
-Verkefnaskil:  
-* Öllum gögnum er skilað í **Innu/VEFÞ1VG/Verkefni 6.
+> Skil á verkefni 7 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
 #### Einkunn verður birt í Innu
 
-_Gangi þér vel._
+_Gangi þér vel_
