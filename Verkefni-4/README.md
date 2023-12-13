@@ -13,9 +13,14 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **verkefni-41** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
-* Viðmið: 0 – 599px, allir dálkar með 100% breidd (1fr)
-* Viðmið: 600px – 767px, 2 og 4 dálkar með 50% breidd (1fr 1fr)
-* Viðmið: 768px – 959px, 2 dálkar 50% breidd (1fr 1fr), 3 dálkar 33.33% breidd (1fr 1fr 1fr) og 4 dálkar 25% breidd (1fr 1fr 1fr 1fr)
+* Viðmið: 0 – 599px,
+  * allir dálkar með 100% breidd (1fr)
+* Viðmið: 600px – 767px,
+  * 2 og 4 dálkar með 50% breidd (1fr 1fr)
+* Viðmið: 768px – 959px,
+  * 2 dálkar 50% breidd (1fr 1fr),
+  * 3 dálkar 33.33% breidd (1fr 1fr 1fr) 
+  * 4 dálkar 25% breidd (4, 1fr)
 
 #### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
