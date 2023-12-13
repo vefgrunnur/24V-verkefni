@@ -11,7 +11,7 @@ Nemendur geta:
 
 ![Octocat](github-octocat.svg)
 
-Meðfylgjandi verkefnalýsingunni er vefsíða, stílsíða og myndir sem þarf að uppfæra fyrir vefsíðuna. Það þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu þjappaðar í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
+Meðfylgjandi verkefnalýsingunni er [vefsíða, stílsíða og myndir](Namsefni-6/README.md) sem þarf að uppfæra fyrir vefsíðuna. Það þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu þjappaðar í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
 
 - Um er að ræða eina stóra mynd á forsíðu sem þarf að vera í fjórum mismunandi stærðum. 
 - Síðan eru 6 myndir sem eiga allar að vera í sömu stærð og þær eiga síðan að birtast eftir skjástærð þrjár í röð, síðan tvær í röð og í einum dálki í farsímaskjáum. 
@@ -25,17 +25,18 @@ Meðfylgjandi verkefnalýsingunni er vefsíða, stílsíða og myndir sem þarf 
     * 6 myndir eru vistaðar í sömu stærð  (500 x 500px) og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins
 1. **Mynd með gagnsæjum (_transparent_) bakgrunni**
     * Hreinsið út bakgrunn úr mynd í myndvinnsluforriti 
-    * Látið myndina inn í textadálk og látið textann flæða umhverfis myndina (css `float:left`)
 
 * Vefmyndir geta verið þjappaðar saman í .jpg (kb) sem er langmest notað í vefsíðum. 
 * Myndir í .png formati geta verið með gagnsæjan bakgrunn og ~ 25% þjöppun
 * Myndir í .gif formati geta verið með gagnsæjan bakgrunn en með 0% þjöppun
-* [Photopea](https://www.photopea.com/) er myndvinnsluforrit (_app_) sem keyrir í vafra.
+
+**[Photopea](https://www.photopea.com/)** er myndvinnsluforrit (_app_) sem keyrir í vafra.
+
     * Myndir skornar:  _Toolbar -> Crop Tool_
     * Myndir settar í rétta stærð: _Image -> Canvas size_.
     * Þjöppun fyrir vef  í Photopea  -> _Export -> .jpg eða .png_
     
-Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem myndin birtist í. En nú getur stærð rammans verið mismunandi og þá er mikilvægt að **hafa eftirfarandi grunnstillingu á öllum myndum í stílsíðu** 
+Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem myndin birtist í. En nú getur stærð rammans verið mismunandi og þá er mikilvægt að **hafa eftirfarandi grunnstillingu á img taginu í stílsíðu** 
 
 ```CSS
         img { 
