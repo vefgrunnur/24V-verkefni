@@ -1,6 +1,7 @@
 # Verkefni VEFÞ1VG05A
 
-> ATH! það þarf að lagfæra allar verklýsingar og búa til tímaverkefni.
+> ATH! það þarf að búa til tímaverkefni. Þau eru í sér geymslu "24V-timavereknfi"
+> Verklýsingar í lagi en má lesa yfir og lagfæra ef þurfa þykir
 
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
