@@ -19,7 +19,7 @@ Meðfylgjandi verkefnalýsingunni er vefsíða, stílsíða og myndir sem þarf 
 
 1. **Stór forsíðumynd**
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
+    * Viðmið: [0 - 480px] – [480px - 768px] – [768px - 1280px] – [1280px +]
     * Með &lt;picture> taginu í vefsíðu er hægt að sortera myndir eftir breidd skjásins
 1. **Myndaröð** 
     * 6 myndir eru vistaðar í sömu stærð  (500 x 500px) og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins
@@ -38,19 +38,19 @@ Meðfylgjandi verkefnalýsingunni er vefsíða, stílsíða og myndir sem þarf 
 Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem myndin birtist í. En nú getur stærð rammans verið mismunandi og þá er mikilvægt að **hafa eftirfarandi grunnstillingu á öllum myndum í stílsíðu** 
 
 ```CSS
-    img { 
-        max-width:100%;
-        height: auto;
-    }
+        img { 
+            max-width:100%;
+            height: auto;
+        }
 ```
 
 #### Æfingaverkefni 5%
 
 1. **Stór forsíðumynd 2%**
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
+    * Viðmið: [0 - 480px] – [480px - 768px] – [768px - 1280px] – [1280px +]
 1. **Myndaröð – 6 myndir 2%**
-    * 1 mynd: [0 - 37.5] – 2 myndir: [37.5 - 48em] – 3 myndir: [48 - 80em] – miðjusett: [80em +]
+    * 1 mynd: [0 - 768px] – 2 myndir: [768px - 960px] – 3 myndir: [960px - 1280px] – miðjusett: (max-width 1280px)
 1. **Mynd með gegnsæjum bakgrunni	(_.png_) 1%**
 
 #### Tímaverkefni 10%
