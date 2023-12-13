@@ -19,6 +19,8 @@ Nemendur geta:
 - Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)
     - Setjið viðeigandi leturstíla á texta vefsins, fyrirsagnir, millifyrirsagnir, meginmálsletur og tengla
 
+#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
+
 ---
 
 ### Litaval
