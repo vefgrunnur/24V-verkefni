@@ -13,7 +13,7 @@ Nemendur geta:
 
 ### Val á leturgerð  
 
-Í verkefni 5 er [sýnidæmi](Namsefni-5/Readme.md), þú átt að líkja eftir uppsetningunni í [vefsíðunum]() sem fylgja með. 
+Í verkefni 5 er [sýnidæmi](Namsefni-5/Dæmi/Readme.md), þú átt að líkja eftir uppsetningunni sem er á myndunum. Notaðu [HTML vefsíðurnar](Namsefni-5/verkefni-5/) sem fylgja með til að vinna verkefnið. 
 
 
 - Tengið leturgerð af [Google Fonts](https://fonts.google.com/) _að eigin vali_ við fyrirsögnina á index.html 
