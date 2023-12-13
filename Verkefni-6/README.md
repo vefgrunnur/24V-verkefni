@@ -56,9 +56,9 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 
 #### Tímaverkefni 10%
 
-> Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
+> Skil á verkefni 6 lokast þegar síðasta kennslutíma verkefnisins er lokið
 
-Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
+Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 6**. 
 
 #### Einkunn verður birt í Innu
 
