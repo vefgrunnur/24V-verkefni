@@ -24,8 +24,6 @@ Nemendur geta:
   - meginmálsletur
   - efnisyfirlit (tenglar)
 
-#### [Sýnidæmi](Namsefni-5/Dæmi/Readme.md)
-
 ---
 
 ### Litaval
@@ -46,7 +44,7 @@ Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_)
 * Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
 * Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
 
-#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
+#### [Sjá sýnidæmi](Namsefni-5/Readme.md#)
 
 ---
 
