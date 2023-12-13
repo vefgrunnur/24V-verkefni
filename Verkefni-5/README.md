@@ -4,29 +4,41 @@
 
 Nemendur geta:
 
-* unnið með mismunandi leturgerðir og náð í leturtýpur á [Google Fonts](https://fonts.google.com/). 
-* skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_).
+* unnið með mismunandi leturgerðir í vefsíðu frá [Google Fonts](https://fonts.google.com/). 
 * fundið samræmi í leturgerð og litanotkun miðað við efni vefs 
 * sett bakgrunnsliti í vefsíðu
-
----
-
-### Efnisyfirlit í _Footer_
- 
-Búðu til lista með eftirtöldum upplýsingum 
-
-* Tenglar í haus og fæti vísa á vefsíður verkefnisins (_relative links_)
-* Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
-
-#### [Sjá sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-6/)
+* skipulagt leiðakerfi fyrir vef (_innri og ytri tenglar_)
 
 ---
 
 ### Val á leturgerð  
 
-* Passar leturgerðin sem þú velur, málefninu?  
-* Hentar litaþemað sem þú hefur valið, málefninu?
+Í verkefni 5 er [sýnidæmi](Namsefni-5/Readme.md) þú átt að líkja eftir uppsetningunni í [vefsíðunum]() sem fylgja með. 
 
-Sækið leturgerðir á [Google font]() vefsíðuna sem hæfa efninu sem þú hefur valið.  Setjið mismunandi stíla á fyrirsögn, millifyrirsagnir og meginmálsletur, tengla, lista.  
+- Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)  við vefsíðurnar 
+- Setjið viðeigandi leturstíla á texta síðunnar 
+    - Fyrirsögn, millifyrirsagnir, meginmálsletur og tengla
+
+---
+
+### Litaval
+
+* Litskipting í bakgrunni
+* Bakgrunns-litaskali (_Background gradient color_)
+
+---
+
+### Leiðakerfi vefs
+
+Búðu til lista með eftirtöldum upplýsingum í undirmálstexta (_footer_) 
+
+* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og á millifyrirsagnir (_inner links_) í gamanmal.html
+* Settu tengla sem vísa á aðra vefi á internetinu (_absolute links_) í _footer_ tagið
+
+#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
+
+---
+
+
 
 
