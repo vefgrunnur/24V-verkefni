@@ -18,9 +18,13 @@ Nemendur geta:
 
 - Tengið leturgerð af [Google Fonts](https://fonts.google.com/) _að eigin vali_ við fyrirsögnina á index.html 
 - Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)
-- Búðu til stílsíðu og settu viðeigandi leturstíla á texta vefsins, fyrirsagnir, millifyrirsagnir, meginmálsletur og tengla
+- Búðu til stílsíðu og settu viðeigandi leturstíla á texta vefsins,
+  - fyrirsagnir
+  - millifyrirsagnir
+  - meginmálsletur
+  - efnisyfirlit (tenglar)
 
-#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
+#### [Sýnidæmi](Namsefni-5/Dæmi/Readme.md)
 
 ---
 
@@ -30,9 +34,8 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 * Litskipting í bakgrunni
 * Bakgrunns-litaskali (_Background gradient color_)
+    * [Sýnidæmi](Namsefni-5/Readme.md) 
 * Hafið góða skerpu (_contrast_) á milli bakgrunnslitar og leturs
-
-#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
 
 ---
 
