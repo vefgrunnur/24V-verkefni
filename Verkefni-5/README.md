@@ -15,16 +15,21 @@ Nemendur geta:
 
 Í verkefni 5 er [sýnidæmi](Namsefni-5/Readme.md) þú átt að líkja eftir uppsetningunni í [vefsíðunum]() sem fylgja með. 
 
-- Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)  við vefsíðurnar 
-- Setjið viðeigandi leturstíla á texta síðunnar 
-    - Fyrirsögn, millifyrirsagnir, meginmálsletur og tengla
+- Tengið leturgerð af [Google Fonts](https://fonts.google.com/) _að eigin vali_ við fyrirsögnina á index.html 
+- Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)
+    - Setjið viðeigandi leturstíla á texta vefsins, fyrirsagnir, millifyrirsagnir, meginmálsletur og tengla
 
 ---
 
 ### Litaval
 
+Setjið liti í letur og bakgrunn _að eigin vali_.
+
 * Litskipting í bakgrunni
 * Bakgrunns-litaskali (_Background gradient color_)
+* Hafið góða skerpu (_contrast_) á milli bakgrunnslitar og leturs
+
+#### [Sjá sýnidæmi](Namsefni-5/Readme.md)
 
 ---
 
