@@ -9,6 +9,8 @@ Nemendur öðlast skilning á:
 
 Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáum. Til að hafa áhrif á skipulag HTML síðu setjum við inn viðmið (_breakpoints_) í CSS stílsíðuna.  Við notum **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.  
 
+#### [Sýnidæmi](Namsefni-4#vi%C3%B0mi%C3%B0-breakpoints---mobile-up)
+
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
 Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **verkefni-41** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
@@ -22,7 +24,7 @@ Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **verkefni-41** og ger
   * 3 dálkar 33.33% breidd (1fr 1fr 1fr) 
   * 4 dálkar 25% breidd (4, 1fr)
 
-#### [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
+
 
 ---
 
