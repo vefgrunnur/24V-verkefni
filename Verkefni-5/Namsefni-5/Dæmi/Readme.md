@@ -10,4 +10,10 @@
 
 ![Spjaldtölva](v5.2.tablet.jpg)
 
+#### Fartölva - Laptop
+
+![Fartölva](v5.1.laptop.jpg)
+
+![Fartölva](v5.2.laptop.jpg)
+
 
