@@ -13,11 +13,12 @@ Nemendur geta:
 
 ### Val á leturgerð  
 
-Í verkefni 5 er [sýnidæmi](Namsefni-5/Readme.md) þú átt að líkja eftir uppsetningunni í [vefsíðunum]() sem fylgja með. 
+Í verkefni 5 er [sýnidæmi](Namsefni-5/Readme.md), þú átt að líkja eftir uppsetningunni í [vefsíðunum]() sem fylgja með. 
+
 
 - Tengið leturgerð af [Google Fonts](https://fonts.google.com/) _að eigin vali_ við fyrirsögnina á index.html 
 - Tengið leturgerðina "Open Sans" af [Google Fonts](https://fonts.google.com/)
-    - Setjið viðeigandi leturstíla á texta vefsins, fyrirsagnir, millifyrirsagnir, meginmálsletur og tengla
+- Búðu til stílsíðu og settu viðeigandi leturstíla á texta vefsins, fyrirsagnir, millifyrirsagnir, meginmálsletur og tengla
 
 #### [Sjá sýnidæmi](Namsefni-5/Readme.md)
 
