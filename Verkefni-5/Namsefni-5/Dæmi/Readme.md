@@ -4,11 +4,15 @@
 
 ![Farsímaskjár](v5.1.mobile.jpg) &nbsp; ![Farsímaskjár 2](v5.2.mobile.jpg)
 
+---
+
 #### Spjaldtölva - Tablet
 
 ![Spjaldtölva](v5.1.tablet.jpg)
 
 ![Spjaldtölva](v5.2.tablet.jpg)
+
+---
 
 #### Fartölva - Laptop
 
@@ -16,4 +20,22 @@
 
 ![Fartölva](v5.2.laptop.jpg)
 
+---
 
+#### Efnisyfirlit - Mobile
+
+![Efnisyfirlit](v5.footer.mobile.jpg) 
+
+---
+
+#### Efnisyfirlit - Tablet
+
+![Efnisyfirlit](v5.tablet.mobile.jpg) 
+
+---
+
+#### Efnisyfirlit - Laptop
+
+![Efnisyfirlit](v5.laptop.mobile.jpg) 
+
+---
