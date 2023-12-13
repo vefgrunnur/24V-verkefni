@@ -11,13 +11,12 @@ Nemendur geta:
 
 ![Octocat](github-octocat.svg)
 
-Taktu nokkrar myndir sem koma til greina á vefnum þínum og breyttu myndunum í myndvinnsluforriti þannig að þær virki eins og [sýnt er í sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-5/). 
-- Um er að ræða eina stóra mynd á forsíðu sem er í fjórum mismunandi stærðum. 
-- Veldu 6 myndir sem eiga allar að vera í sömu stærð og þær eiga síðan að birtast eftir skjástærð þrjár í röð, síðan tvær í röð og í einum dálki. 
-- Síðan er ein mynd valin og bakgrunnur hennar tekin út og hafður gegnsær (_transparent_). 
+Meðfylgjandi verkefnalýsingunni er vefsíða, stílsíða og myndir sem þarf að uppfæra fyrir vefsíðuna. Það þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu þjappaðar í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
 
-Það þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu þjappaðar í réttri stærð og fljótar að hlaðast inn á vefsíðuna. 
- 
+- Um er að ræða eina stóra mynd á forsíðu sem þarf að vera í fjórum mismunandi stærðum. 
+- Síðan eru 6 myndir sem eiga allar að vera í sömu stærð og þær eiga síðan að birtast eftir skjástærð þrjár í röð, síðan tvær í röð og í einum dálki í farsímaskjáum. 
+- Mynd af Freysteini er með bakgrunn sem þarf að taka út og bakgrunnurinn gerður gegnsær (_transparent_). 
+
 1. **Stór forsíðumynd**
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
     * Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
@@ -45,36 +44,20 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
     }
 ```
 
-### Námsmat 12% af heildareinkunn 
-
-1. **Stór forsíðumynd 4%**
-    * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
-1. **Myndaröð – 6 myndir 4%**
-    * 1 mynd: [0 - 37.5] – 2 myndir: [37.5 - 48em] – 3 myndir: [48 - 80em] – miðjusett: [80em +]
-1. **Mynd með gegnsæjum bakgrunni	(_.png_) 4%**
-    * myndin er sett í textadálk og textinn umvefur myndina	
-
-### Verkefnaskil:  
-
-Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
-
-#### Einkunn verður birt í Innu
-
-_Gangi þér vel._
-
-### Námsmat
-
 #### Æfingaverkefni 5%
 
-* 2% 5.1 Leturval
-* 2% 5.2 Litaval 
-* 1% 5.3 Leiðakerfi
-
+1. **Stór forsíðumynd 2%**
+    * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
+    * Viðmið: [0 - 30em] – [30 - 48em] – [48 - 80em] – [80em +]
+1. **Myndaröð – 6 myndir 2%**
+    * 1 mynd: [0 - 37.5] – 2 myndir: [37.5 - 48em] – 3 myndir: [48 - 80em] – miðjusett: [80em +]
+1. **Mynd með gegnsæjum bakgrunni	(_.png_) 1%**
 
 #### Tímaverkefni 10%
 
 > Skil á verkefni 5 lokast þegar síðasta kennslutíma verkefnisins er lokið
+
+Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
 
 #### Einkunn verður birt í Innu
 
