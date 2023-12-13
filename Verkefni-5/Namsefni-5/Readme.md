@@ -1,4 +1,7 @@
-# Leturstillingar í CSS
+* [Sýnidæmi](Dæmi)
+* [Vefsíður til að vinna með](verkefni-5)
+
+### Leturstillingar í CSS
 
 ```CSS
 
