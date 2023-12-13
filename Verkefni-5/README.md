@@ -1,4 +1,4 @@
-# Leturgerð, leiðakerfi og bakgrunnar
+# Leturgerðir, leiðakerfi og bakgrunnar
 
 ### Markmið:
 
