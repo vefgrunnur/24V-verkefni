@@ -34,7 +34,7 @@ Nemendur geta:
 #### Æfingaverkefni 5%
 
 * 2% Kvikmynd er á vefsíðunni &lt;iframe> _share video from mediaserver_
-* 2% Ákveðin staðsetning taga. _position: absolute - fixed_
+* 1% Ákveðin staðsetning taga. _position: absolute - fixed_
 * 1% Kort er á vefsíðunni &lt;iframe> _embed google map_
 * 1% Hljóðskrá er á vefsíðunni &lt;audio> _mp3 format_
  
