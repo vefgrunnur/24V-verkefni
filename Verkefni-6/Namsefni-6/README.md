@@ -23,12 +23,10 @@ Stafræn mynd er framsetning myndar í tvíundakerfi og getur verið annaðhvort
 #### _Gimp_ myndvinnsluforrit (_ókeypis, MAC og PC_)
 
 * .XCF myndaskrár eru búnar til GIMP myndvinnsluforritinu og þær er hægt að uppfæra fyrir vefinn sem .jpg mynd eða .png myndir. 
-*  [Það er hægt að opna .psd mynd í Gimp](https://www.howtogeek.com/362162/how-to-open-or-convert-a-photoshop-file-if-you-dont-have-photoshop/)
 * Eftirtalin forrit geta unnið með .XCF myndir: _IrfanView, XnView, Inkscape, Paint.NET, CinePaint, digiKam, Krita og Seashore_. 
 
-#### PaintNet (Windows PC) 
-
-#### [Photopea](https://www.photopea.com/) (Vafraforrit - App)
+- PaintNet (Windows PC) 
+- [Photopea](https://www.photopea.com/) (Vafraforrit - App)
 
 #### Portable Document File .pdf
 
