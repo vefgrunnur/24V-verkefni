@@ -56,8 +56,8 @@
 
 ### Verkefnaskil 
 
--  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/verkefni(x) í .zip skrá (_Compressed folder_)
--  Öllum æfingaverkefnum er skilað í sömu verkefnaskil í sér .zip skrá 
+-  Tímaverkefni er unnið í lok hvers verkefnis í kennslustund og skilað í Innu/VEFÞ1VG05AU/verkefni(n)
+-  Æfingar sem fylgja verkefnalýsingu er skilað í sömu verkefnaskil í .zip skrá (_Compressed folder_)
 -  Einkunn fyrir verkefnin birtast í Innu
 ---
 
