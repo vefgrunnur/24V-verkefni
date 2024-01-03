@@ -1,8 +1,5 @@
 # Verkefni VEFÞ1VG05A
 
-> ATH! það þarf að búa til tímaverkefni. Þau eru í sér geymslu "24V-timaverkefni"
-> Verklýsingar í lagi en má lesa yfir og lagfæra ef þurfa þykir
-
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
