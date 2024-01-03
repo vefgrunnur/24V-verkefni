@@ -29,7 +29,7 @@
 
 
 
-### Vikuáætlun _(í vinnslu)_
+### Vikuáætlun 
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
