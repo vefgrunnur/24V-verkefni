@@ -59,7 +59,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ í þjappaðri skrá, **Æfingar.zip**. 
 
-#### Tímaverkefni 10%
+#### Tímaverkefni 5%
 
 - Tímaverkefni. Vefsíðu og stílsíðu er skilað í _Innu/VEFÞ1VG/Verkefni-1_ 
 
