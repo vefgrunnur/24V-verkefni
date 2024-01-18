@@ -20,7 +20,7 @@ Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsag
 
 > H1 - padding - border - margin
 
-### 2.1.2 Eiginleikar taga (_Display settings_).
+### 2.1 Eiginleikar taga (_Display settings_).
 
 Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
