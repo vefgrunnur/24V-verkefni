@@ -20,7 +20,7 @@ Búðu til HTML síðu og skrifaðu 3 línur af texta og settu þær í fyrirsag
 
 > H1 - padding - border - margin
 
-### 2.1 Eiginleikar taga (_Display settings_).
+### 2.2 Eiginleikar taga (_Display settings_).
 
 Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html síðu og breyttu eiginleikum listans með CSS "display" skipuninni eins og sýnt er hér á myndinni.
    
@@ -37,7 +37,7 @@ Eigindi sem m.a. eru notuð í stílsíðu eru `float:left, border og padding `
 
 ---
 
-### 2.3 HTML5 ritháttur.  
+### 2.4 HTML5 ritháttur.  
 
 Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
@@ -52,7 +52,7 @@ Búðu til vefsíðu og settu viðeigandi HTML5 tög í vefsíðuna
 
 ---
 
-### 2.4 Leyniklasar _Pseudo classes_ 
+### 2.5 Leyniklasar _Pseudo classes_ 
  
 Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að búa til. Tenglarnir eiga að vísa á verkefni 2.1-2 og verkefni 2.3 HTML síðurnar. Bætið síðan hulduklösum í ` nav a ` skipunina í stílsíðuna. 
 
