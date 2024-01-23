@@ -74,7 +74,7 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 - 2.4 Hulduklasar _Pseudo classes_
 - Öllum æfingaverkefnum  (Vefsíður og stílsíður) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í þjappaðri skrá, **Æfingar.zip**. 
 
-#### Tímaverkefni 10%
+#### Tímaverkefni 5%
 
 - Tímaverkefni  (Vefsíða og stílsíða) er skilað í _Innu/VEFÞ1VG/Verkefni-2_ í sér skrá, **Tímaverkefni.zip**. 
 
