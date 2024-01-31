@@ -18,10 +18,10 @@
 | 2  | HTML og CSS | 1  | 5 | 5 |
 | 3  | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 5 |
 | 5  | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 5 |
-| 6  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 20 |
+| 6  | Svegjanleg vefhönnun (_@media and mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
 | 7  | Letur- og litaval.<br> Efnisyfirlit og leiðakerfi | 5  | 5 | 10 | 
 | 8  | Myndvinnsla | 6 | 5 | 10 |
-| 9  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 5 | 20 |
+| 9  | Video, Audio, Kort - _google map_ <br>og staðsetning taga. _**Lykilmatsþáttur**_ | 7 | 5 | 15 |
 | 10  | Síðasti kennsudagur er 29. febrúar |  | 35 | 65 |
 
 
