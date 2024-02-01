@@ -30,7 +30,7 @@ Afritaðu (_copy_) verkefni 3.2 yfir í nýja möppu t.d. **Verkefni-4.2** og ge
 
 ## 4.2 Sveigjanleg vefsíða
 
-Afritaðu vefsíðu og stílsíðu sem þú gerðir í verkefni 3.2 og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-42**. 
+Afritaðu vefsíðu og stílsíðu sem þú gerðir í verkefni 3.3 og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-4.3**. 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
 
