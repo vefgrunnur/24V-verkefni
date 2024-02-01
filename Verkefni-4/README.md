@@ -13,7 +13,7 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu (_copy_) verkefni 3.1 yfir í nýja möppu t.d. **Verkefni-4.2** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
+Afritaðu (_copy_) verkefni 3.2 yfir í nýja möppu t.d. **Verkefni-4.2** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (1fr)
