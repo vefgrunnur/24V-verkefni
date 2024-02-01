@@ -13,7 +13,7 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu (_copy_) verkefni 3.2 yfir í nýja möppu t.d. **Verkefni-4.2** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
+Afritaðu (_copy_) verkefni 3.2 yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega.  Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (1fr)
@@ -30,7 +30,7 @@ Afritaðu (_copy_) verkefni 3.2 yfir í nýja möppu t.d. **Verkefni-4.2** og ge
 
 ## 4.2 Sveigjanleg vefsíða
 
-Afritaðu vefsíðu og stílsíðu sem þú gerðir í verkefni 3.3 og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-4.3**. 
+Afritaðu vefsíðu og stílsíðu sem þú gerðir í verkefni 3.3 og vistaðu verkefnið í nýja möppu sem þú getur nefnt **verkefni-4.2**. 
 
 Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna eigið dálkaskipulag. Vefsíður þurfa að birtast í öllum helstu skjástærðum, búðu til viðmið (_breakpoint_) til að stjórna skipulagi vefsíðunnar í stílsíðunni. 
 
