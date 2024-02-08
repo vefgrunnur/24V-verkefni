@@ -37,7 +37,7 @@
         margin:auto;
     }
     .col-6 {
-        grid-template-columns: repeat(6, 1fr); /* 4 x 1fr */
+        grid-template-columns: repeat(6, 1fr); /* 6 x 1fr */
         gap: 2rem;
     }
 }
