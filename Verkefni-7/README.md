@@ -25,7 +25,7 @@ Nemendur geta:
 1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
 1. Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
 1. Settu inn lógó eða tákn sem er með fastri staðsetningu í tölvuskjánum
-1. HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
+1. HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndregin í sér línu.
 
 #### Birting vefsíðu á internetinu
 
