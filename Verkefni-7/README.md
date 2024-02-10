@@ -31,23 +31,6 @@ Nemendur geta:
 
 Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [https://vefgrunnur.github.io/24V-demo/liverpool/](https://vefgrunnur.github.io/24V-demo/liverpool/)
 
-
----
-
-#### Innsetning kvikmyndar (_Video_)
-
-* Veldu myndefni (_Video_) af Youtube og settu á vefsíðuna. Myndefnið á að styðja efni vefsins
-
-#### Innsetning hljóðskrár (_Audio_)
-
-* Settu .mp3 hljóðskrá á vefsíðuna þína eða spilunarlista. Hljóðskráin á að vera hluti af umfjöllun þinni
-
-#### Innsetning staðsetningarkorts
-
-* Settu „_Google_“ kort á vefsíðuna þína, það  getur vísað á stað sem tengist efni vefsins.
-
----
-
 ### Lykilmatsþáttur 20%
 
 * 3% Kvikmynd er á vefsíðunni &lt;iframe> (_share video from mediaserver_)
@@ -57,7 +40,6 @@ Nemendur geta:
 * 3% Umföllun um hljómsveit eða tónlistarmann.
 * 3% Vefsíðan er í svegjanlegri hönnun og efni síðunnar birtist eðlilega í öllum helstu skjástærðunum 
 * 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
- 
 
 #### Skil á verkefni 7 lokast síðasta kennsludag spannar 1, kl. 23:59.
 
