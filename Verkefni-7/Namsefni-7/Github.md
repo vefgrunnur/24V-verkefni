@@ -11,7 +11,7 @@ git config --global user.email þitt@email.is
 
 ```
 
-Github.com/notendanafnið þitt
+Github.com/notendanafnið þitt (user account)
    |___ README.md
    |___ vef1vg (verkefnageymsla - repository)
 
