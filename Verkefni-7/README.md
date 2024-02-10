@@ -16,7 +16,7 @@ Nemendur geta:
 * Uppsetning vefsíðunnar er í þínum höndum. 
 * Umfjöllunarefnið er valfrjálst (_má vera á ensku_)
 
-Í vefsíðunni eiga að vera eftirfarndi atriði
+Í vefsíðunni eiga að vera eftirfarandi atriði
 
 1. Kvikmynd sótt af Youtube eða öðrum sambærilegum streymisveitum
 1. Kvikmyndin á að vera í **sveigjanlegum iframe** ramma
