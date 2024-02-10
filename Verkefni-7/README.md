@@ -31,7 +31,7 @@ Nemendur geta:
 
 Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [https://vefgrunnur.github.io/24V-demo/liverpool/](https://vefgrunnur.github.io/24V-demo/liverpool/)
 
-Ef tími vinnst til þá getum við sett verkefni 7 á https//[Github-username].github.io/verkefni-7/index.html. 
+Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
 
