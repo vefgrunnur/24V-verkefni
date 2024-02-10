@@ -34,19 +34,15 @@ Nemendur geta:
 
 ---
 
-### Innsetning kvikmyndar (_Video_)
+#### Innsetning kvikmyndar (_Video_)
 
 * Veldu myndefni (_Video_) af Youtube og settu á vefsíðuna. Myndefnið á að styðja efni vefsins
 
----
-
-### Innsetning hljóðskrár (_Audio_)
+#### Innsetning hljóðskrár (_Audio_)
 
 * Settu .mp3 hljóðskrá á vefsíðuna þína eða spilunarlista. Hljóðskráin á að vera hluti af umfjöllun þinni
 
----
-
-### Innsetning staðsetningarkorts
+#### Innsetning staðsetningarkorts
 
 * Settu „_Google_“ kort á vefsíðuna þína, það  getur vísað á stað sem tengist efni vefsins.
 
