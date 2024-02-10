@@ -27,9 +27,13 @@ Nemendur geta:
 1. Settu inn lógó eða tákn sem er með fastri staðsetningu í tölvuskjánum
 1. HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
 
-### Birting vefsíðu á internetinu
+#### Birting vefsíðu á internetinu
 
 Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir á vefsíðunni þarf að birta hana á internetinu. Sjá dæmi: [https://vefgrunnur.github.io/24V-demo/liverpool/](https://vefgrunnur.github.io/24V-demo/liverpool/)
+
+Ef tími vinnst til þá getum við sett verkefni 7 á https//[Github-username].github.io/verkefni-7/index.html. 
+
+* [Nýskráning á Github](Namsefni-7/Github.md)
 
 ### Lykilmatsþáttur 20%
 
