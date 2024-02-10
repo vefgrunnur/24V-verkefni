@@ -11,6 +11,34 @@ Nemendur geta:
 
 ---
 
+#### Nú átt þú að búa til vefsíðu sem fjallar um hljómsveit eða tónlistarmann. 
+
+* Uppsetning vefsíðunnar er í þínum höndum. 
+* Umfjöllunarefnið er valfrjálst (_má vera á ensku_)
+
+Í vefsíðunni eiga að vera eftrirfarndi atriði
+
+1. Kvikmynd sótt af Youtube eða öðrum sambærilegum streymisveitum
+1. Kvikmyndin á að vera í **sveigjanlegum iframe** ramma
+1. Settu inn lag í `audio` tagið eða náðu í lagalista af streymisveitu
+1. Hafðu stuttan inngangstexta 
+1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
+1. Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
+1. Settu inn lógó eða tákn sem er með fastri staðsetningu í tölvuskjánum
+1. Umfjöllun um hljómsveit eða tónlistarmann.
+1. HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
+
+### Birting vefsíðu á internetinu
+
+Það er ekki hægt að skoða kvikmyndir af Youtube (í iframe) á _localhost_. Vafrinn leyfir það ekki. Til að sjá kvikmyndir þar að birta vefsíðuna á internetinu (_https://www._).
+
+
+
+Sjá dæmi: [https://vefgrunnur.github.io/24V-demo/liverpool/](https://vefgrunnur.github.io/24V-demo/liverpool/)
+
+
+---
+
 ### Innsetning kvikmyndar (_Video_)
 
 * Veldu myndefni (_Video_) af Youtube og settu á vefsíðuna. Myndefnið á að styðja efni vefsins
@@ -29,19 +57,18 @@ Nemendur geta:
 
 ---
 
-### Lykilmatsþáttur 
+### Lykilmatsþáttur 20%
 
-#### Æfingaverkefni 5%
-
-* 2% Kvikmynd er á vefsíðunni &lt;iframe> _share video from mediaserver_
-* 1% Ákveðin staðsetning taga. _position: absolute - fixed_
-* 1% Kort er á vefsíðunni &lt;iframe> _embed google map_
-* 1% Hljóðskrá er á vefsíðunni &lt;audio> _mp3 format_
+* 3% Kvikmynd er á vefsíðunni &lt;iframe> (_share video from mediaserver_)
+* 3% Hljóðskrá er á vefsíðunni &lt;audio> (_mp3 format_)
+* 3% Kort er á vefsíðunni &lt;iframe> (_embed google map_)
+* 3% Ákveðin staðsetning taga. (_position: absolute - fixed_)
+* 3% Umföllun um hljómsveit eða tónlistarmann.
+* 3% Vefsíðan er í svegjanlegri hönnun og efni síðunnar birtist eðlilega í öllum helstu skjástærðunum 
+* 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
  
 
-#### Tímaverkefni 15%
-
-> Skil á verkefni 7 lokast þegar síðasta kennslutíma verkefnisins er lokið
+#### Skil á verkefni 7 lokast síðasta kennsludag spannar 1, kl. 23:59.
 
 #### Einkunn verður birt í Innu
 
