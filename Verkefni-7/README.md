@@ -44,7 +44,7 @@ Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username]
 * 3% Umföllun um hljómsveit eða tónlistarmann.
 * 2% Vefsíðan er í svegjanlegri hönnun og efni síðunnar birtist eðlilega í öllum helstu skjástærðunum 
 * 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
-* 2% Birting vefsíðu á internetinu
+* 1% Birting vefsíðu á internetinu
 
 #### Skil á verkefni 7 lokast síðasta kennsludag spannar 1, 29.02. Kl. 23:59.
 
