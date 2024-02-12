@@ -21,10 +21,13 @@ Meðfylgjandi verkefnalýsingunni er [vefsíða, stílsíða og myndir](Namsefni
     * Myndin er vistuð í fjórum stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
     * Viðmið: [0 - 767px] – [768px - 960px] – [960px - 1280px] – [1280px - 2000px]
     * Með &lt;picture> taginu í vefsíðu er hægt að sortera myndir eftir breidd skjásins
-1. **Myndaröð** 
-    * 6 myndir eru vistaðar í sömu stærð  (500 x 500px) og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins
+    * [mynd 1](myndir/mynd1.jpg)
 1. **Mynd með gagnsæjum (_transparent_) bakgrunni**
     * Hreinsið út bakgrunn úr mynd í myndvinnsluforriti 
+    * [mynd 2](myndir/mynd2.jpg)
+1. **Myndaröð** 
+    * 6 myndir eru vistaðar í sömu stærð  (500 x 500px) og þeim raðað mismunandi upp í vefsíðu eftir breidd skjásins
+    * [mynd 3](myndir/mynd3.jpg)
 
 * Vefmyndir geta verið þjappaðar saman í .jpg (kb) sem er langmest notað í vefsíðum. 
 * Myndir í .png formati geta verið með gagnsæjan bakgrunn og ~ 25% þjöppun
