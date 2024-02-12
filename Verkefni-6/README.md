@@ -6,7 +6,6 @@ Nemendur geta:
 
 * unnið myndir fyrir vef í [myndvinnsluforriti](https://www.photopea.com/)
 * látið myndir af sömu stærð raðast inn eftir skjástærð 
-* látið texta flæða með mynd (_float_)
 * notað &lt;picture> tagið til að birta stóra mynd sem vafrinn sækir eftir skjástærð 
 
 ![Octocat](github-octocat.svg)
