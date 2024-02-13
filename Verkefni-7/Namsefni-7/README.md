@@ -5,4 +5,4 @@
 
 ### Github
 - [Nýskráning Github reiknings](Github.md)
-- []
+- [Uppsetning vefs á Internetið - Github.io](uppsetning-github.io/)
