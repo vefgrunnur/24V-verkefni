@@ -55,7 +55,7 @@
 | --- | --- | --- | --- | --- | 
 | 7 | Leiðakerfi (_links id_) | **Tímaverkefni** | Myndvinnsla í Photopea. | Unnið með mismunandi stærðir &lt;picture> | 
 | 8 | Mynd með gagnsæjum grunni. | **Tímaverkefni** | Video | Audio | 
-| 9 | Iframe |  Staðsetning hluta (_positioning elements_). | Uppsetning vefs á internetið. **Skil 29.02. KL. 23:59**  | _Námsmat_ |
+| 9 | Iframe |  Staðsetning hluta (_positioning elements_). | Uppsetning vefs á internetið. <br>**Skil 29.02. KL. 23:59**  | _Námsmat_ |
 
 ### Verkefnaskil 
 
