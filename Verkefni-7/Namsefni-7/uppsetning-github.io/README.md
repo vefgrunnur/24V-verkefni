@@ -4,8 +4,8 @@ Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þe
 
 dæmi:  
 1.	Notendanafn (_Username_) á Gitub reikningi: **Notandi** 
-1.	heiti geymslu: **notandi.github.io**
-1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú "Branch": **Main**. 
+1.	heiti geymslu (_Repository_): **notandi.github.io**
+1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú `Branch`: **_Main_**. 
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
 1.	Nú getur þú birt verkefnin þín á eigin vefsíðu.
 
@@ -17,9 +17,9 @@ Ef við viljum búa til undirlén (_subdomain_) sem er með öðru skipulagi og 
 
 #### Dæmi
 
-1. Stofnaðu geymslu (_repository_) og nefndu hana nafni verkefnisins sem þú ætlar að birta
+1. Stofnaðu geymslu og nefndu hana nafni verkefnisins sem þú ætlar að birta
     * ![mynd 1.](images/mynd1.jpg)
-    * Heiti gymslunnar má ekki vera með íslenskum stöfum eða með bil í nafninu
+    * Heiti geymslunnar má **ekki** vera með íslenskum stöfum eða með bil í nafninu
 1. Náðu í geymsluna `$ git clone ` og settu vefinn sem þú ætlar að birta í geymsluna. 
 1. Uppfærðu geymsluna á Github.com `$ git push `
     * ![mynd 2.](images/mynd3.jpg)
