@@ -34,6 +34,7 @@ Nemendur geta:
 Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
+* [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
 
 ### Lykilmatsþáttur 20%
 
