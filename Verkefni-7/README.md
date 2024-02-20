@@ -34,6 +34,7 @@ Nemendur geta:
 Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
+* [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
 
 ### Lykilmatsþáttur 20%
 
@@ -47,6 +48,9 @@ Ef tími vinnst til þá getum við sett verkefni 7 á https://[Github-username]
 * 1% Birting vefsíðu á internetinu
 
 #### Skil á verkefni 7 lokast síðasta kennsludag spannar 1, 29.02. Kl. 23:59.
+
+* Öllum gögnum er skilað í Innu/VEFÞ1VG05AU/verkefni 7
+* Tengill (_link_) sem vísar á vefsíðu á _Github.io_ er skilað í "_Athugasemd til kennara_" í verkefni 7
 
 #### Einkunn verður birt í Innu
 
