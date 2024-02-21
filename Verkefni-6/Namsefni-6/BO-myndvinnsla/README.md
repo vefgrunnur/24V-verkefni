@@ -15,3 +15,5 @@
     * ![mynd 5](BÓ5.jpg)
 1. Vistið myndina > **_File > Export as > JPG_**
     * ![mynd 6](BÓ6.jpg)
+1. Breidd myndar á að vera 600px > 
+    * ![mynd 6](BÓ7.jpg)  
